@@ -1,0 +1,664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spiritval tovchstone: or, The signes of a godly man drawne in so plaine and profitable a maner, as all sorts of Christians may trie themselues thereby. Together with directions, how the weake Christian, by the vse of these signes may establish his assurance. By. N. Bifield preacher of Gods word at Isteworth in Middlesex.</title>
+            <author>Byfield, Nicholas, 1579-1622.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73612</idno>
+            <idno type="STC">STC 4236.8</idno>
+            <idno type="STC">ESTC S124755</idno>
+            <idno type="EEBO-CITATION">99898624</idno>
+            <idno type="PROQUEST">99898624</idno>
+            <idno type="VID">173174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2021:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spiritval tovchstone: or, The signes of a godly man drawne in so plaine and profitable a maner, as all sorts of Christians may trie themselues thereby. Together with directions, how the weake Christian, by the vse of these signes may establish his assurance. By. N. Bifield preacher of Gods word at Isteworth in Middlesex.</title>
+                  <author>Byfield, Nicholas, 1579-1622.</author>
+               </titleStmt>
+               <extent>[8], 134 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Field, for Ionas Man,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1619.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Intended to be part 2a of STC 4219.5: Byfield, Nicholas. The marrow of the oracle of God.</note>
+                  <note>With marginal notes.</note>
+                  <note>Running title: Directions about the vse of the signes.</note>
+                  <note>Signatures: A¹² (-A1) B-F¹² .</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173174:1"/>
+            <pb facs="tcp:173174:1" rendition="simple:additions"/>
+            <p>THE SPIRITVAL TOVCHSTONE: <hi>OR,</hi> THE SIGNES OF A GODLY MAN: Drawne in ſo plaine and <hi>profitable a maner, as all ſorts</hi> of Chriſtians may trie <hi>them<g ref="char:EOLhyphen"/>ſelues thereby.</hi>
+            </p>
+            <p>Together with Directions, <hi>how the weake Chriſtian, by the</hi> vſe of theſe Signes may <hi>eſta<g ref="char:EOLhyphen"/>bliſh his aſſurance.</hi>
+            </p>
+            <p>By N. BIFIELD Preacher of <hi>Gods word at Iſleworth in Middleſex.</hi>
+            </p>
+            <bibl>2. COR. 13. 5.</bibl>
+            <q>Examine your ſelues whether ye be in the faith: proue your owne ſelues. Know ye not your owne ſelues, how that Ieſus Chriſt is in you, except ye be reprobates?</q>
+            <p>
+               <hi>LONDON,</hi> Printed by R. FIELD, for IONAS MAN. 1619.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173174:2"/>
+            <pb facs="tcp:173174:2"/>
+            <head>TO THE MVCH HONO<g ref="char:EOLhyphen"/>red Ladie, the Ladie RVTH SCYDAMORE increaſe of peace and ioy in belee<g ref="char:EOLhyphen"/>uing.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow great the benefite of aſſurance of Gods fa<g ref="char:EOLhyphen"/>uour and of our owne ſaluation is, thoſe onely know that are either ſcourged with the conflicts and
+<pb facs="tcp:173174:3"/> terrors of their own doub<g ref="char:EOLhyphen"/>tings, or that are ſolaced and eſtabliſhed with the ſweet dewes of refreſhing that ariſe from a rooted and well grounded faith. If men ſtudie aſſurances ſo much for their outward poſſeſſions in this world, how much more earneſt and diligent ſhould men be to aſſure Gods loue and the inheritance of the glo<g ref="char:EOLhyphen"/>rie to come? There is not a clearer ſigne of a pro<g ref="char:EOLhyphen"/>fane heart, then to account theſe cares needleſſe: nor do I know a iuſter excep<g ref="char:EOLhyphen"/>tion against any religion, then that it ſhould teach,
+<pb facs="tcp:173174:3"/> that when a man hath done what he can to ob<g ref="char:EOLhyphen"/>ſerue the directions of that religion, yet he can<g ref="char:EOLhyphen"/>not be ſure he ſhall go to heauen.</p>
+            <p>But ſince I know that all that are poſſeſſed of the grace of Ieſus Chriſt, do account aſſurance great riches, I therefore con<g ref="char:EOLhyphen"/>ceiue hope that my paines about this ſubiect will not be altogether vnaccepta<g ref="char:EOLhyphen"/>ble: and the rather be<g ref="char:EOLhyphen"/>cauſe in this preſent trea<g ref="char:EOLhyphen"/>tiſe I haue endeuoured to expreſſe the ſignes of trial in a much more eaſie way then before; and beſides
+<pb facs="tcp:173174:4"/> haue added directions, that ſhew how a weake Chriſtian may eſtabliſh himſelfe in his aſſu<g ref="char:EOLhyphen"/>rance.</p>
+            <p>I make bold to dedicate my new Eſſay herein vn<g ref="char:EOLhyphen"/>to your Ladiſhip. You haue heard the ſubſtance hereof preached, and receiued it with much gladneſſe; and in the priuate vſe of theſe ſignes, you haue bene plea<g ref="char:EOLhyphen"/>ſed to profeſſe (to the glo<g ref="char:EOLhyphen"/>rie of God) that you haue found much contentment and eſtabliſhment of your owne aſſurance. Your emi<g ref="char:EOLhyphen"/>nencie in the ſincere pro<g ref="char:EOLhyphen"/>feſſion and practiſe of
+<pb facs="tcp:173174:4"/> true religion, and the ſhi<g ref="char:EOLhyphen"/>ning of the graces here intreated of, long acknow<g ref="char:EOLhyphen"/>ledged by many witneſ<g ref="char:EOLhyphen"/>ſes, haue made you wor<g ref="char:EOLhyphen"/>thy to be publikly obſerued and praiſed in the Chur<g ref="char:EOLhyphen"/>ches of Chriſt: and your great reſpect and fauour ſhewed to me, hath made this way of teſtifying my thankfulneſſe, but as a ſmall pledge and aſſu<g ref="char:EOLhyphen"/>rance of my deſire to do your Ladiſhip any ſeruice in the things of Ieſus Chriſt. Thus beſeeching God to enlarge the com<g ref="char:EOLhyphen"/>forts of his Spirit in your heart, and to proſper you
+<pb facs="tcp:173174:5"/> in all things that con<g ref="char:EOLhyphen"/>cerne the bleſſed hope of the appearing of Ieſus Chriſt our mightie God and Sauiour, I end, and rest</p>
+            <closer>
+               <signed>Your Ladiſhips to be com<g ref="char:EOLhyphen"/>manded, N. Bifield.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:173174:5"/>
+            <head>CHAP. I.</head>
+            <argument>
+               <p>
+                  <hi>Deſcribing the godly man by ſuch ſignes as diſcouer him to the obſeruation of other men.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>He ſignes of the tru Chriſtian that hath true grace in this world, and ſhall be ſaued in heauen whe<g ref="char:cmbAbbrStroke">̄</g> he dies, may be caſt into two Catalogues. The<note place="margin">Two Cata<g ref="char:EOLhyphen"/>logues of ſignes.</note> one more briefe: the
+<pb n="2" facs="tcp:173174:6"/> other more large. The one <hi>Catalogue</hi> of ſignes deſcribe him by ſuch markes, as for the moſt part do outwardly di<g ref="char:EOLhyphen"/>ſtinguiſh him amongſt men. The large <hi>Cata<g ref="char:EOLhyphen"/>logue</hi> I intend eſpecially as a more infallible and effectuall way of triall, as co<g ref="char:cmbAbbrStroke">̄</g>taining ſuch ſignes as for the moſt part are not obſerued by other men, or not fully, but are knowne to himſelfe, and can be found in no reprobate.</p>
+            <p>For the firſt <hi>Cata<g ref="char:EOLhyphen"/>logue:</hi>
+               <note place="margin">The ſhor<g ref="char:EOLhyphen"/>ter Cata<g ref="char:EOLhyphen"/>logue han<g ref="char:EOLhyphen"/>dled in this Chapter.</note> The true Chri<g ref="char:EOLhyphen"/>ſtian vſually diſcouers
+<pb n="3" facs="tcp:173174:6"/> himſelfe by theſe marks.</p>
+            <p>Firſt, he will not <hi>haue</hi>
+               <note place="margin">1. He a<g ref="char:EOLhyphen"/>uoids the companie of the wic<g ref="char:EOLhyphen"/>ked.</note> 
+               <hi>fellowſhip with the vn<g ref="char:EOLhyphen"/>fruitful works of darknes;</hi> he will not <hi>walke in the counſell of the wicked,</hi> nor <hi>ſtand in the way of ſin<g ref="char:EOLhyphen"/>ners.</hi> He will not ſort himſelfe with <hi>workers of iniquitie.</hi> Pſal. 1. 1. &amp; 26. 2. Cor. 6.</p>
+            <p>Secondly, he will af<g ref="char:EOLhyphen"/>flict<note place="margin">2. He is ſor<g ref="char:EOLhyphen"/>rowfull for his ſinne.</note> &amp; humble his ſoule for his ſinnes, mourning and weeping for them, till the Lord be pleaſed to ſhew mercie and for<g ref="char:EOLhyphen"/>giue him. He doth ac<g ref="char:EOLhyphen"/>count his ſinnes to be his greateſt burthen. He
+<pb n="4" facs="tcp:173174:7"/> cannot make a mocke of ſinne, &amp;c.</p>
+            <p>Thirdly, he labours<note place="margin">3. He is throughly reformed in conuer<g ref="char:EOLhyphen"/>ſation.</note> to be holy in all parts of his conuerſation, watch<g ref="char:EOLhyphen"/>ing ouer his owne waies at all times, and in all companies. Pſal. 50. 23. Eſa. 56. 8. 2. Pet. 3.</p>
+            <p>Fourthly, he makes<note place="margin">4. He ma<g ref="char:EOLhyphen"/>keth con<g ref="char:EOLhyphen"/>ſcience of leſſer ſins as well as greater.</note> conſcience of the leaſt commandements as wel as the greateſt, auoiding filthy ſpeaking, and vain ieſting, and laſciuiouſ<g ref="char:EOLhyphen"/>neſſe, as well as whore<g ref="char:EOLhyphen"/>dome: leſſer oathes as well as the greater; re<g ref="char:EOLhyphen"/>prochful ſpeeches as wel as violent actions, &amp;c.</p>
+            <pb n="5" facs="tcp:173174:7"/>
+            <p>Fiftly, he loues and<note place="margin">5. He loues preaching.</note> eſteemes, and labours for the powerfull prea<g ref="char:EOLhyphen"/>ching of the word, a<g ref="char:EOLhyphen"/>boue all earthly trea<g ref="char:EOLhyphen"/>ſures.</p>
+            <p>Sixtly, he honours<note place="margin">6. He e<g ref="char:EOLhyphen"/>ſteems the godly a<g ref="char:EOLhyphen"/>boue all men.</note> and highly accounts of the godly, and delights in the companie of ſuch as truly feare God, a<g ref="char:EOLhyphen"/>boue all others. Pſal. 15.</p>
+            <p>Seuenthly, he is care<g ref="char:EOLhyphen"/>full<note place="margin">7. He is carefull of the ſancti<g ref="char:EOLhyphen"/>fication of the Sab<g ref="char:EOLhyphen"/>bath.</note> of the ſanctification of the Sabbath; neither daring to violate that holy reſt by labour, nor to neglect the holy du<g ref="char:EOLhyphen"/>ties belonging to Gods ſeruice publicke or pri<g ref="char:EOLhyphen"/>uate.
+<pb n="6" facs="tcp:173174:8"/> Eſa. 56. and 58.</p>
+            <p>Eightly, he loues not<note place="margin">8. He is not in loue with the world.</note> the world, neither the things thereof, but is more heartily affected in things that concerne a better life, and ſo doth in ſome degree <hi>loue the appearing of Chriſt.</hi>
+            </p>
+            <p>Ninthly, He is <hi>eaſie</hi>
+               <note place="margin">9. He loues his ene<g ref="char:EOLhyphen"/>mies.</note> 
+               <hi>to be intreated,</hi> he can <hi>forgiue his enemies,</hi> de<g ref="char:EOLhyphen"/>ſires peace, and will do good euen to them, that perſecute him, if it lye in his power: Math. 5.</p>
+            <p>Tenthly, he goeth<note place="margin">10. He is conſtant in good cour<g ref="char:EOLhyphen"/>ſes, though oppoſed.</note> on in the profeſſion of the ſincerity of the Goſ<g ref="char:EOLhyphen"/>pell, and doth ſuch du<g ref="char:EOLhyphen"/>ties
+<pb n="7" facs="tcp:173174:8"/> as he knoweth God requires of him in buſi<g ref="char:EOLhyphen"/>neſſes of his ſoule, not<g ref="char:EOLhyphen"/>withſtanding the oppo<g ref="char:EOLhyphen"/>ſitions of prophane per<g ref="char:EOLhyphen"/>ſons, or the diſlike of carnall friends, &amp;c.</p>
+            <p>Eleuenthly, he ſetteth<note place="margin">11. He ſerues God in his fa<g ref="char:EOLhyphen"/>mily.</note> vp a daily courſe of ſer<g ref="char:EOLhyphen"/>uing of God, and that with his family too, if he haue any; and exerciſeth himſelfe in the word of God, as the chiefe ioy of his heart, and the dai<g ref="char:EOLhyphen"/>ly refuge of his life, cal<g ref="char:EOLhyphen"/>ling vpon God continu<g ref="char:EOLhyphen"/>ally, &amp;c.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="8" facs="tcp:173174:9"/>
+            <head>CHAP. II.</head>
+            <argument>
+               <p>
+                  <hi>Shewing the generall di<g ref="char:EOLhyphen"/>uiſion of the Signes, and the ways how the ſignes were found out.</hi>
+               </p>
+            </argument>
+            <p>THus of the ſhor<g ref="char:EOLhyphen"/>ter Catalogue of ſignes: Now it fol<g ref="char:EOLhyphen"/>lowes, that I proceed to thoſe infallible marks of <hi>Election,</hi> and <hi>ſaluation.</hi> And whereas I haue di<g ref="char:EOLhyphen"/>uers yeares ſince publi<g ref="char:EOLhyphen"/>ſhed a Treatiſe which I called <hi>Eſſayes,</hi> or ſignes of God loue, and mans ſaluation: Hauing ob<g ref="char:EOLhyphen"/>ſerued<note place="margin">The occa<g ref="char:EOLhyphen"/>ſion of this Treatiſe.</note> that diuers haue accounted the manner
+<pb n="9" facs="tcp:173174:9"/> of ſetting the ſignes downe ſomewhat ob<g ref="char:EOLhyphen"/>ſcure in diuers parts of the booke, I will now by Gods aſſiſtance, for the helping of the weakeſt <hi>Chriſtians</hi> in this Trea<g ref="char:EOLhyphen"/>tiſe, endeuour to ex<g ref="char:EOLhyphen"/>preſſe my ſelfe in this doctrine of the triall of a true Chriſtians eſtate in a more plaine and ea<g ref="char:EOLhyphen"/>ſie courſe of examinati<g ref="char:EOLhyphen"/>on; and leaue both the former treatiſe, and his new <hi>Catalogue</hi> vnto the bleſſing of God, and the free choice of the godly reader of vſe, which he findeth moſt agreeable
+<pb n="10" facs="tcp:173174:10"/> to his owne taſte, being both ſuch as are war<g ref="char:EOLhyphen"/>ranted &amp; founded vpon the infallible euidence of Gods vnchangeable truth.</p>
+            <p>In this proiect then I conſider of the triall of<note place="margin">The ſignes referred to ſixe heads.</note> a true Chriſtian ſixe wayes.</p>
+            <p>Firſt, in his humilia<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Secondly, in his faith.</p>
+            <p>Thirdly, in the gifts of his mind, with which he is qualified.</p>
+            <p>Fourthly, in the workes of his obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p>Fiftly, in the entertain<g ref="char:EOLhyphen"/>ment
+<pb n="11" facs="tcp:173174:10"/> he hath from God.</p>
+            <p>Sixtly, in the manner of his receiuing of the Sacraments.</p>
+            <p>In all which he differs from all the wicked men in the world, ſo as neuer any wicked man could find theſe things in his condition, which are true of the weakeſt <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> in each of theſe ſignes.</p>
+            <p>And that the true Chriſtian may not doubt of his eſtate, ha<g ref="char:EOLhyphen"/>uing found theſe ſignes<note place="margin">The infalli<g ref="char:EOLhyphen"/>bilitie of the ſignes.</note> in himſelfe, let him con<g ref="char:EOLhyphen"/>ſider the proofes an<g ref="char:EOLhyphen"/>nexed
+<pb n="12" facs="tcp:173174:11"/> to each ſigne: &amp; that nothing may be wanting to his aboun<g ref="char:EOLhyphen"/>dant conſolation, I will tell him, how I found out thoſe ſignes, and by what grounds I procee<g ref="char:EOLhyphen"/>ded.</p>
+            <p>There are three ſorts<note place="margin">3. Wayes to find out the ſignes of a godly man in Scripture.</note> of places in Scripture (as I co<g ref="char:cmbAbbrStroke">̄</g>ceiue) which do point out the grounds of infallible aſſurance in thoſe that can attaine vnto them: as firſt, ſuch places as expreſly do af<g ref="char:EOLhyphen"/>firme, that ſuch and ſuch things are ſignes: As for example 1. Iohn 3. 14. <hi>Hereby we know, that we</hi> are
+<pb n="13" facs="tcp:173174:11"/> 
+               <hi>tranſlated from death to life, becauſe we loue the brethren.</hi> Here the holy Ghoſt ſhews vs expreſ<g ref="char:EOLhyphen"/>ly, that the loue of the brethren is a ſigne, by which a Chriſtian may know, that he is tranſla<g ref="char:EOLhyphen"/>ted from death to life: &amp; ſo the Apoſtle <hi>Paul</hi> giues ſignes to know, whether their <hi>ſorrow</hi> were <hi>after God,</hi> or no. 2. Cor. 7. 11. So doth the Prophet <hi>Dauid,</hi> Pſal. 15. giue diuers ſignes, by which the man that ſhal dwell in Gods holy hill, may be knowne. So the Apoſtle <hi>Iames</hi> tels vs,
+<pb n="14" facs="tcp:173174:12"/> how we may know the wiſedome from aboue, by reckning the fruites and effects of it. Iam. 3. 17. So doth the Apoſtle <hi>Paul</hi> tell vs, how we may know, whether we haue the Spirit of Chriſt in vs or no, Rom. 8. 9. 15. &amp;c. Gal. 5. 22. &amp; 4. 6. 7.</p>
+            <p>Secondly, I find out ſignes, by marking, what graces in man the pro<g ref="char:EOLhyphen"/>miſes of God are made vnto; for thus I reaſon: Whatſoeuer gifts of God in man brings him within the compaſſe of Gods promiſes of eter<g ref="char:EOLhyphen"/>nall mercie: that gift
+<pb n="15" facs="tcp:173174:12"/> muſt be an infallible ſigne of ſaluation. But ſuch are ſuch and ſuch gifts, as the inſtances in diuers Scriptures ſhew: And therefore the man that can find thoſe gifts in himſelfe, ſhall be cer<g ref="char:EOLhyphen"/>tainly ſaued. As for ex<g ref="char:EOLhyphen"/>ample: The kingdome of heauen is promiſed to ſuch as are <hi>poore in ſpirit,</hi> Math. 5. 4. From thence then I gather, that pouertie of ſpirit is an infallible ſigne. The like I may ſay of the <hi>loue of the word,</hi> and of <hi>vprightneſſe of heart,</hi> and <hi>of the loue of God,</hi> and
+<pb n="16" facs="tcp:173174:13"/> 
+               <hi>the loue of the appearing of Chriſt, &amp;c.</hi>
+            </p>
+            <p>Thirdly, I find out other ſignes by obſer<g ref="char:EOLhyphen"/>uing what godly men in Scripture haue ſaid for themſelues, when they haue pleaded their owne euidence for their intereſt in Gods loue, or their hope of a better life. For look how godly men in Scripture haue proued that they were not hypocrites: euen ſo may any Chriſtia<g ref="char:cmbAbbrStroke">̄</g> proue that he is not an hypo<g ref="char:EOLhyphen"/>crite neither. As for ex<g ref="char:EOLhyphen"/>ample, <hi>Iob</hi> being char<g ref="char:EOLhyphen"/>ged to be an hypocrite,
+<pb n="17" facs="tcp:173174:13"/> and lying vnder the hea<g ref="char:EOLhyphen"/>uy hand of God, pleades his cauſe, and proues that he was not an hy<g ref="char:EOLhyphen"/>pocrite, by his conſtan<g ref="char:EOLhyphen"/>cie in Gods wayes, and by his conſtant eſtima<g ref="char:EOLhyphen"/>tion of Gods word, and <hi>deſire after it, as after his appointed food,</hi> Iob 23. 10. 11. 12. More of this kind thou maiſt find in the proofes of particu<g ref="char:EOLhyphen"/>lar ſignes.</p>
+            <p>Now whereas ſome ſignes are generall, and thou mightſt doubt of y<hi rend="sup">e</hi> expoſition, namely how that ſigne is infallible in ſuch &amp; ſuch ſences: For
+<pb n="18" facs="tcp:173174:14"/> thy eſtabliſhment here<g ref="char:EOLhyphen"/>in, thou mayſt obſerue, that I expou<g ref="char:cmbAbbrStroke">̄</g>d the ſigne as it is expounded in o<g ref="char:EOLhyphen"/>ther ſeuerall Scriptures. As for example: The loue of the brethren, is a generall ſigne. Now how ſhall I know that I haue the right loue of the brethren? This I ex<g ref="char:EOLhyphen"/>plane by flying to diuers other Scriptures, where<g ref="char:EOLhyphen"/>in the particular expli<g ref="char:EOLhyphen"/>cations of this ſigne are pleaded.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="19" facs="tcp:173174:14"/>
+            <head>CHAP. III.</head>
+            <argument>
+               <p>
+                  <hi>The triall of a Chriſtian by the ſignes of true humiliation.</hi>
+               </p>
+            </argument>
+            <p>THe firſt way then, by which a Chri<g ref="char:EOLhyphen"/>ſtian may trie him<g ref="char:EOLhyphen"/>ſelfe, is to examine him<g ref="char:EOLhyphen"/>ſelfe about his humilia<g ref="char:EOLhyphen"/>tion for ſinne, whether it be right or no. For vn<g ref="char:EOLhyphen"/>der this head is compre<g ref="char:EOLhyphen"/>hended the explication of the doctrine of po<g ref="char:EOLhyphen"/>uertie of ſpirit, and god<g ref="char:EOLhyphen"/>ly ſorrow, and ſo in ge<g ref="char:EOLhyphen"/>nerall of repentance for ſinnes.</p>
+            <pb n="20" facs="tcp:173174:15"/>
+            <p>Now the true Chri<g ref="char:EOLhyphen"/>ſtian in this matter of humiliation ſhews him<g ref="char:EOLhyphen"/>ſelfe to haue attained<note place="margin">26. Signes of true hu<g ref="char:EOLhyphen"/>miliation.</note> that, which no repro<g ref="char:EOLhyphen"/>bate could euer attaine: and that in diuers parti<g ref="char:EOLhyphen"/>culars, as,</p>
+            <p>Firſt, he hath a <hi>true</hi>
+               <note place="margin">1. He ſees his ſinnes.</note> 
+               <hi>ſight and ſence of his ſins.</hi> He diſcernes his ſinful<g ref="char:EOLhyphen"/>neſſe of life both paſt and preſent, and is affe<g ref="char:EOLhyphen"/>cted and pained vnder the burthen of his daily wants and corruptions, and ſees his miſerie in reſpect of his ſinnes. Ie<g ref="char:EOLhyphen"/>rem. 3. 12. Math. 11. 29. Math. 5. 4.</p>
+            <pb n="21" facs="tcp:173174:15"/>
+            <p>Secondly, he <hi>trem<g ref="char:EOLhyphen"/>bles</hi>
+               <note place="margin">2. He feares Gods diſ<g ref="char:EOLhyphen"/>pleaſure.</note> 
+               <hi>at Gods word,</hi> and feares his diſpleaſure, while it yet hangs in the threatnings. Eſa. 66. 1. 2.</p>
+            <p>Thirdly, he <hi>renoun<g ref="char:EOLhyphen"/>ceth</hi>
+               <note place="margin">3. He truſts not vpon the merit of his own workes.</note> 
+               <hi>his owne merits,</hi> and diſclaimeth all opinion of true happineſſe in himſelfe, or in any thing vnder the Sunne; as be<g ref="char:EOLhyphen"/>ing fully perſwaded, that he cannot be ſaued by any works of his owne, or be happie in enioy<g ref="char:EOLhyphen"/>ing any worldly things; and therefore is fully re<g ref="char:EOLhyphen"/>ſolued to ſeeke for the chiefe good in Gods fa<g ref="char:EOLhyphen"/>uour
+<pb n="22" facs="tcp:173174:16"/> in Ieſus Chriſt onely.</p>
+            <p>Fourthly, he <hi>mournes</hi>
+               <note place="margin">4. He mournes.</note> 
+               <hi>heartily and ſecretly for his ſins;</hi> and ſo he doth,</p>
+            <p n="1">1. <hi>For all ſorts of ſins:</hi>
+               <note place="margin">For all ſorts of ſinne.</note> for ſecret ſinnes as well as knowne ſinnes; for leſſer ſinnes as well as greater; for the preſent euils of his nature and life, as well as ſinnes paſt: yea for the ſins he hath loued, or haue bene gainfull and pleaſing to him. Yea he grieues for the euill that cleaues to his beſt workes, as well as for euill workes, Eſa. 6. 5. Rom. 7. Eſa. 1. 16.
+<pb n="2" facs="tcp:173174:16"/> Math. 5. 6.</p>
+            <p n="2">2. <hi>For ſinne as it is ſin,</hi>
+               <note place="margin">For ſinne as it is ſin.</note> and not as it doth or might bring him ſhame, or puniſhments in this life, or in hell.</p>
+            <p n="3">3. He is as much <hi>trou<g ref="char:EOLhyphen"/>bled</hi>
+               <note place="margin">As much as for croſſes.</note> 
+               <hi>for his ſinnes,</hi> as he was wont, or now ſhold be <hi>for croſſes</hi> in his eſtate. He mournes as heartily for the ſorrowes that fell vpon Gods Sonne for his ſinne, as if he had loſt his owne and onely ſonne, Zachar. 12. 10, 11. or at leaſt this he ſtri<g ref="char:EOLhyphen"/>ueth for, and iudgeth himſelfe, if worldly af<g ref="char:EOLhyphen"/>flictions do trouble him
+<pb n="24" facs="tcp:173174:17"/> more then his ſins. Pſal. 38. 5.</p>
+            <p>Fiftly, he is <hi>truly grie<g ref="char:EOLhyphen"/>ued</hi>
+               <note place="margin">5. And for the ſins of others.</note> and vexed in ſoule for the <hi>abhominations</hi> that are done by others, to the diſhonor of God, or ſlander of true reli<g ref="char:EOLhyphen"/>gion, or the ruine of the ſoules of men. Thus <hi>Lot,</hi> 2. Pet. 2. 6. and <hi>Dauid,</hi> Pſalm. 119. 136. and the mourners marked for Gods owne people. E<g ref="char:EOLhyphen"/>zech. 9. 4.</p>
+            <p>Sixtly, he is heartily<note place="margin">6. And for ſpirituall iudgments.</note> affected, and troubled, and <hi>grieued for ſpirituall iudgements,</hi> that reach vnto the ſoules of men,
+<pb n="25" facs="tcp:173174:17"/> as well as wicked men are wont to be troubled for temporall croſſes; &amp; ſo he is grieued and per<g ref="char:EOLhyphen"/>plexed <hi>for hardneſſe of heart,</hi> (when he cannot mourne as he would,) and for <hi>the famine of the word,</hi> or <hi>for the abſence of God,</hi> or <hi>for the blaſphe<g ref="char:EOLhyphen"/>mies of the wicked,</hi> or the like. Pſal. 42. 2. 3. &amp; 137. Nehem. 1. 3. 4. Eſay 63. 17.</p>
+            <p>Seuenthly, he is <hi>moſt</hi>
+               <note place="margin">7. And is moued thereunto by Gods mercie.</note> ſtirred vp to abaſe him<g ref="char:EOLhyphen"/>ſelfe and <hi>mourne</hi> for his ſinnes, <hi>when he feeles God to be</hi> moſt mercifull. <hi>The goodneſſe of God</hi> doth
+<pb n="26" facs="tcp:173174:18"/> make him <hi>feare God,</hi> and hate his ſinnes ra<g ref="char:EOLhyphen"/>ther, then his iuſtice, Hoſ. 3. 5.</p>
+            <p>Eightly, his <hi>griefes</hi>
+               <note place="margin">8. And he is eaſed onely by ſpirituall meanes.</note> are ſuch as can <hi>be aſſwa<g ref="char:EOLhyphen"/>ged onely by ſpirituall meanes.</hi> It is not ſport or merrie companie that eaſeth him: his comfort is onely from the Lord in ſome of his ordinan<g ref="char:EOLhyphen"/>ces. As it was the <hi>Lord</hi> that <hi>wounded him</hi> with the ſight of his ſinnes, ſo to the Lord onely be goeth <hi>to be healed</hi> of his wounds, Hoſ. 6. 1. 2. Pſal. 119. 23. 24. 50.</p>
+            <p>Ninthly, in his <hi>griefe
+<pb n="27" facs="tcp:173174:18"/> he is inquiſitiue:</hi> he will<note place="margin">9. And is carefull to learne how to be ſaued</note> 
+               <hi>aske the way,</hi> and deſires to know <hi>how he may be ſaued.</hi> He cannot ſmo<g ref="char:EOLhyphen"/>ther and put off his doubts in ſo great a bu<g ref="char:EOLhyphen"/>ſineſſe. He dares not now any longer be ig<g ref="char:EOLhyphen"/>norant of the way to heauen. He is not care<g ref="char:EOLhyphen"/>leſſe, as he was wont to be, but is ſeriouſly bent to get directions from the word of God about his reconciliation, ſan<g ref="char:EOLhyphen"/>ctification, &amp; ſaluation, &amp;c. Ierem. 50. 4. 5. Acts 2. 37.</p>
+            <p>Tenthly, he is fearfull<note place="margin">10. And is fearfull of being de<g ref="char:EOLhyphen"/>ceiued.</note> of being deceiued, and
+<pb n="28" facs="tcp:173174:19"/> therefore is not ſlight<g ref="char:EOLhyphen"/>ly ſatisfied. He will not reſt vpon a common hope, nor is he caried with probabilities; nor doth it content him that other men haue a good opinion of him; nor is he pleaſed that he hath mended ſome faults, or begun to repent: but <hi>repenting he repents ſtill,</hi> that is, he takes a ſound courſe to be ſure his re<g ref="char:EOLhyphen"/>pentance be effectually performed, Ierem. 31. 19.</p>
+            <p>Eleuenthly, he is ve<g ref="char:EOLhyphen"/>hemently<note place="margin">11. And ear<g ref="char:EOLhyphen"/>neſtly de<g ref="char:EOLhyphen"/>ſires to leade an holy life.</note> carried with <hi>the deſires of the ſound re<g ref="char:EOLhyphen"/>formation
+<pb n="29" facs="tcp:173174:19"/> of his life.</hi> His ſorrow is not <hi>water,</hi> but <hi>waſhing;</hi> nor is it euery waſhing, but ſuch as <hi>maketh cleane.</hi> Worldly ſorrow may haue much water, but it maketh no<g ref="char:EOLhyphen"/>thing cleane; whereas godly ſorrow alwayes tendeth to reformation and ſound amendment.</p>
+            <p>Twelfthly, in all his ſo<g ref="char:EOLhyphen"/>rowes he is ſupported<note place="margin">12. And truſts vpon Gods mer<g ref="char:EOLhyphen"/>cie in his griefe.</note> by a ſecret <hi>truſt in the mercie and acceptation of God,</hi> ſo as no miſerie can beate him from the con<g ref="char:EOLhyphen"/>ſideration and inward affiance and hope in the mercie of God. In the
+<pb n="30" facs="tcp:173174:20"/> 
+               <hi>very diſquietneſſe of his hart, the deſire of his ſoule is to the Lord,</hi> and before his preſence; though he be neuer ſo <hi>much caſt downe, yet he waits vpon God for the helpe of his countenance,</hi> and in ſome meaſure condemnes the vnbeleefe of his owne heart, and truſts in the name of God, and his neuer failing compaſſi<g ref="char:EOLhyphen"/>ons, Pſalm. 38. 9. &amp; 42. 5. 11. Lam. 3. 21. Zepha. 3. 12.</p>
+            <p n="13">13. He is wonder<g ref="char:EOLhyphen"/>fully<note place="margin">13. And is in loue with God if he heare his prayers.</note> inflamed with <hi>loue to God,</hi> if he at any time let him know that <hi>he
+<pb n="31" facs="tcp:173174:20"/> heareth his prayers.</hi> In the midſt of his moſt deſpe<g ref="char:EOLhyphen"/>rate ſorrowes his heart is eaſed if he ſpeed well in prayer, Pſalme 116. 1. 3.</p>
+            <p n="14">14. He daily <hi>keepes</hi>
+               <note place="margin">14. And daily iudg<g ref="char:EOLhyphen"/>eth himſelf for his ſin.</note> 
+               <hi>an aſſiſe vpon his owne ſoule:</hi> he <hi>iudgeth himſelfe</hi> for his ſins before God, arreſting, accuſing, and condemning his ſinnes. He <hi>confeſſeth his ſinnes particularly to God, with<g ref="char:EOLhyphen"/>out hiding</hi> any ſin, that is, without forbearing to pray againſt any ſin he knowes by himſelfe, out of any deſire he hath ſtil to continue in it; and by
+<pb n="32" facs="tcp:173174:21"/> this ſigne he may be ſure he hath <hi>the Spirit of God,</hi> and that his <hi>ſins are forgiuen him.</hi> Eſay 4. 4. Pſal. 35. 5. 1. Ioh. 1. 7. 1. Cor. 11. 32.</p>
+            <p n="15">15. His <hi>requeſts are</hi>
+               <note place="margin">15. And prayes in the holy Ghoſt.</note> 
+               <hi>daily powred vnto God.</hi> He cries vnto God with affection &amp; confidence, though it be with much weakneſſe and many de<g ref="char:EOLhyphen"/>fects, as the little child doth vnto the father, and thereby he diſcouers <hi>the Spirit of adoption in him.</hi> Rom. 8. 15. Zach. 12. 10. Epheſ. 3. 12.</p>
+            <p n="16">16. <hi>He is vnfainedly</hi>
+               <note place="margin">16. Deſiring to be rid of all ſinne.</note> 
+               <hi>deſirous to be rid of all ſins,
+<pb n="33" facs="tcp:173174:21"/> as well as one. There is no ſin he knowes by himſelf, but he doth deſire as hear<g ref="char:EOLhyphen"/>tily that he might neuer commit it, as he doth that</hi>
+               <note place="margin">Note this.</note> 
+               <hi>God ſhould neuer impute it.</hi> This is a neuer failing ſigne, a fundamentall one. 2. Tim. 2. 19.</p>
+            <p n="17">17. He is content to<note place="margin">17. And is willing to ſuffer af<g ref="char:EOLhyphen"/>fliction.</note> 
+               <hi>receiue euill at the hand of God, as well as good,</hi> without murmuring, or <hi>letting go his integritie;</hi> as being ſenſible of his owne deſerts, and deſi<g ref="char:EOLhyphen"/>rous to approue himſelf to God, without <hi>reſpect of reward.</hi> This proued that <hi>Iob</hi> was an holy and
+<pb n="34" facs="tcp:173174:22"/> vpright man, Iob 1. 1. &amp; 2. 3. 10.</p>
+            <p n="18">18. <hi>He diſlikes ſinne</hi>
+               <note place="margin">18. He diſ<g ref="char:EOLhyphen"/>likes ſinne in all.</note> 
+               <hi>in all,</hi> euen in thoſe that are neare and deare vn<g ref="char:EOLhyphen"/>to him in other reſpects, 1. King. 15. 12. 13. 14.</p>
+            <p n="19">19. <hi>He is innocent fro<g ref="char:cmbAbbrStroke">̄</g>
+               </hi>
+               <note place="margin">19. Sinne reignes not in him.</note> 
+               <hi>the great tranſgreſſion,</hi> and <hi>keepes himſelfe from his owne iniquitie.</hi> He is not ſubiect to <hi>the domi<g ref="char:EOLhyphen"/>nion of ſinne.</hi> Sinne doth <hi>not reigne in him,</hi> Pſal. 19. 13. 2. Sam. 22. 24.</p>
+            <p n="20">20. He finds a deſire<note place="margin">20. He hu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>bles him<g ref="char:EOLhyphen"/>ſelfe for ſin euen in his proſperitie.</note> to be rid of ſinne, and to humble himſelfe for it <hi>in proſperitie</hi> as well as aduerſitie. He leaues ſin
+<pb n="35" facs="tcp:173174:22"/> before ſin would leaue him. He forſakes it then, when he could commit it without apparent dan<g ref="char:EOLhyphen"/>ger, Iob 8. 5. 6.</p>
+            <p n="21">21. Or if he be in ad<g ref="char:EOLhyphen"/>uerſitie,<note place="margin">21. And in aduerſitie his heart is vpright.</note> 
+               <hi>his heart is vp<g ref="char:EOLhyphen"/>right,</hi> without lying or diſſimulation. He ſo ſee<g ref="char:EOLhyphen"/>keth the pardon of his ſinnes then, and ſo pro<g ref="char:EOLhyphen"/>miſeth amendment, as that he is alſo as carefull to practiſe it when he is deliuered. He is not like the Iſraelites mentioned Pſal. 78. 36. 37.</p>
+            <p n="22">22. He makes a <hi>ſu<g ref="char:EOLhyphen"/>pernaturall</hi>
+               <note place="margin">22. He ac<g ref="char:EOLhyphen"/>counts of ſpirituall things as the beſt things.</note> 
+               <hi>valuation of ſpirituall things,</hi> accoun<g ref="char:EOLhyphen"/>ting
+<pb n="36" facs="tcp:173174:23"/> them as pearles of the beſt price, not too deare bought, if he pur<g ref="char:EOLhyphen"/>chaſed them with all the worldly things he hath; and contrariwiſe, accou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ting himſelfe exceeding poore if he want them, or the meanes of them, Math. 13. 45. 46. Pſal. 42. &amp; 63. 1. 3.</p>
+            <p n="23">23. <hi>He hath loſt his</hi>
+               <note place="margin">23. He doth not ſauour the things of the fleſh and the world.</note> 
+               <hi>wonted taſte in earthly things:</hi> his heart is not tranſported with the ad<g ref="char:EOLhyphen"/>miration of them, or the inordinate deſires after worldly things. <hi>He loues not the world</hi> &amp; this life as he was wont to do.
+<pb n="37" facs="tcp:173174:23"/> Though hee vſe the world, yet he eaſily con<g ref="char:EOLhyphen"/>feſſeth himſelfe to be a <hi>ſtranger and pilgrime</hi> here. He giues ouer the <hi>vnneceſſary pleaſures &amp; profits</hi> of this life, Heb. 11. 13. 1. Ioh. 2. 14. 15. Rom. 8. 6. He is wearie of the world, and wil<g ref="char:EOLhyphen"/>ling to forgo ſocietie with the men of this world, the workers of iniquitie, Pſalm. 6. 8. 9. and 39. 12. and 26. 1, 2, 3, 4.</p>
+            <p n="24">24. If <hi>the Lord be ſi<g ref="char:EOLhyphen"/>lent,</hi>
+               <note place="margin">24. He is much grie<g ref="char:EOLhyphen"/>ued if God hide him<g ref="char:EOLhyphen"/>ſelfe.</note> 
+               <hi>and anſwer not his deſires, but hides his face; his ſpirit faileth, and he is
+<pb n="38" facs="tcp:173174:24"/> as one that goeth downe into the pit:</hi> it troubles him as a ſore croſſe; and ſo contrariwiſe, Pſal. 26. 1: and 88. 13, 14, 15: and 143. 7. Ioh. 16. 23. 28.</p>
+            <p n="25">25. If he hath bene<note place="margin">25. Of a lio<g ref="char:cmbAbbrStroke">̄</g> he becoms a lambe.</note> a man ſubiect to boiſte<g ref="char:EOLhyphen"/>rous, violent, and hurtful affections, he is now be<g ref="char:EOLhyphen"/>come tame: of <hi>a Lion</hi> he is become <hi>a lambe,</hi> &amp; <hi>a litle child may leade him,</hi> Eſay 11. 9.</p>
+            <p n="26">26. He hath <hi>a ſpirit</hi>
+               <note place="margin">26. His ſpi<g ref="char:EOLhyphen"/>rit is with<g ref="char:EOLhyphen"/>out guile.</note> 
+               <hi>without guile,</hi> Pſal. 32. 2. He is more deſirous to be good, then to be thought to be ſo; and more ſeekes the power
+<pb n="39" facs="tcp:173174:24"/> of godlineſſe, then the ſhew of it, Iob. 1. 1. Prou. 20. 6. 7. His <hi>praiſe is of God, and not of men:</hi> Rom. 2. 26.</p>
+            <p>And thus much of the triall of his humilia<g ref="char:EOLhyphen"/>tion. The ſignes of his faith follow.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP. IIII.</head>
+            <argument>
+               <p>
+                  <hi>The triall of a godly man by his Faith.</hi>
+               </p>
+            </argument>
+            <p>FAith is the next thing to be tried in a childe of God. And in as much as there
+<pb n="40" facs="tcp:173174:25"/> are diuers kinds of faith,<note place="margin">Why we ſhould trie our faith.</note> and experience ſhewes in many that giue no ſignes of repentance, that they wil not be bea<g ref="char:EOLhyphen"/>ten fro<g ref="char:cmbAbbrStroke">̄</g> a confident pre<g ref="char:EOLhyphen"/>ſumption that Chriſt died for them, euen for them in particular: it ſtands vs in hand to trie our perſwaſion by true rules of Scripture, that ſo if it will abide the trial of the touchſtone, we may lay it vp as an hid treaſure and a wonder<g ref="char:EOLhyphen"/>full grace of God; and if otherwiſe, we may re<g ref="char:EOLhyphen"/>pent vs of preſumption, as a deceiueable ſinne.</p>
+            <pb n="41" facs="tcp:173174:25"/>
+            <p>But before I open the ſignes of this ſigne, the Reader muſt be admo<g ref="char:EOLhyphen"/>niſhed of three things.</p>
+            <p>Firſt, that I intend not<note place="margin">The drift is to ſhew how faith may be proued, not how it may be bred.</note> by theſe ſignes to ſhew how faith may be bred or <hi>begotten</hi> in vs, but how faith may be <hi>proued</hi> and declared to be in vs. For it is the <hi>promiſes</hi> of God in the Scripture that <hi>breed faith:</hi> nor can humane reaſon beleeue ſuch great things from God for any thing that is in vs, but onely be<g ref="char:EOLhyphen"/>cauſe we ſee the word of God aſſuring ſuch happineſſe vnto ſuch as
+<pb n="42" facs="tcp:173174:26"/> lay hold vpon them. So that, that which breeds faith, is the <hi>reuelation of Gods promiſes</hi> by his <hi>word</hi> and <hi>Spirit.</hi> Yet notwithſtanding the aſ<g ref="char:EOLhyphen"/>ſurance of faith is much increaſed and confirmed by the ſight of thoſe ſignes of the truth of our faith, and other gra<g ref="char:EOLhyphen"/>ces of God in vs.</p>
+            <p>Secondly, that I ſtand<note place="margin">A ſecond caueat.</note> not preciſely vpon the order of theſe graces of God in vs, nor deter<g ref="char:EOLhyphen"/>mine that queſtion, which graces are firſt wrought in the heart of a man: but that which
+<pb n="43" facs="tcp:173174:26"/> I haue ſpecially aimed at in the order of ſetting them downe, is to begin at thoſe that either firſt appeare in a Chriſtian, or are eaſieſt (as I con<g ref="char:EOLhyphen"/>ceiue) to be diſcerned in him.</p>
+            <p>Thirdly, that I intend<note place="margin">The 3. note by way of preface.</note> eſpecially the triall of ſuch Chriſtians as agree in this, that they are per<g ref="char:EOLhyphen"/>ſwaded that Chriſt died for them; that ſo the true Chriſtian may ſee rea<g ref="char:EOLhyphen"/>ſon to comfort himſelf, that his perſwaſion is no preſumption, as is the perſwaſion of the moſt. It is true, that diuers of
+<pb n="44" facs="tcp:173174:27"/> the ſignes of faith here to be handled, will ſhew faith in the weakeſt Chriſtian, though he will not yet be brought to acknowledge any per<g ref="char:EOLhyphen"/>ſwaſion. For this perſwa<g ref="char:EOLhyphen"/>ſion may be ſecretly wrought vpon the hart: as it is when it relieth vpo<g ref="char:cmbAbbrStroke">̄</g> the merits of Chriſt onely for ſaluation, though the iudgement of the Chriſtian be not reſolued againſt his doubts.</p>
+            <p>The queſtion then is, how a Chriſtian may trie his perſwaſion of Gods mercie, and his
+<pb n="45" facs="tcp:173174:27"/> intereſt in Chriſts me<g ref="char:EOLhyphen"/>rits, whether it be right or no.</p>
+            <p>For anſwer thereun<g ref="char:EOLhyphen"/>to, I ſay, that the true Chriſtian doth proue his faith and perſwaſion<note place="margin">The true faith.</note> to be right, by thoſe ſignes following.</p>
+            <p>Firſt, his faithor per<g ref="char:EOLhyphen"/>ſwaſion<note place="margin">1. Was wrought by the word prea<g ref="char:EOLhyphen"/>ched.</note> was wrought by the hearing of the word preached: &amp; ther<g ref="char:EOLhyphen"/>fore thou muſt firſt aske thy ſelfe, how thou com<g ref="char:EOLhyphen"/>meſt by thy perſwaſion. For if thou ſay, thou waſt alwayes ſo perſwa<g ref="char:EOLhyphen"/>ded, or didſt attain it by meere naturall meanes
+<pb n="46" facs="tcp:173174:28"/> or helpes, thou art de<g ref="char:EOLhyphen"/>ceiued. For, faith is firſt wrought by the holy Ghoſt in the preaching of the Goſpell, as it is moſt cleer by the words of the Apoſtle, <hi>How ſhall they beleeue in him of who<g ref="char:cmbAbbrStroke">̄</g> they haue not heard? and how ſhall they heare without a preacher?</hi> Rom. 10. 14. And whereas it may be, that many Chri<g ref="char:EOLhyphen"/>ſtia<g ref="char:cmbAbbrStroke">̄</g>s haue not obſerued the workings of their faith; and haue forgot<g ref="char:EOLhyphen"/>ten the time of their conuerſion; and haue not iudgement to diſ<g ref="char:EOLhyphen"/>cerne how the Lord by
+<pb n="47" facs="tcp:173174:28"/> the miniſterie of his ſer<g ref="char:EOLhyphen"/>uants did change their hearts, and leade them to Chriſt: Therefore when this firſt ſigne can<g ref="char:EOLhyphen"/>not comfort, they muſt trie themſelues by the reſt that follow.</p>
+            <p>Secondly, he hath an<note place="margin">2. Eſteems Chriſt a<g ref="char:EOLhyphen"/>boue all things.</note> high <hi>estimation of Ieſus Chriſt.</hi> For the man that hath true faith, accounts all things moſt baſe in co<g ref="char:cmbAbbrStroke">̄</g>pariſon of the know<g ref="char:EOLhyphen"/>ledge of Chriſt, and the loue of God in him. He had rather be ſure of Chriſt, then to gaine the whole world. Chriſt is more <hi>precious</hi> then all
+<pb n="48" facs="tcp:173174:29"/> the world: yea is the only thing in requeſt in the deſires of the Chri<g ref="char:EOLhyphen"/>ſtian. Now Chriſt is <hi>pre<g ref="char:EOLhyphen"/>cious</hi> onely to <hi>them that beleeue,</hi> 1. Pet. 2. 6. and by this ſigne <hi>Paul</hi> knew that he was growne far beyond himſelfe in his former life, and beyond all the Phariſes in the world. Phil. 3. 9.</p>
+            <p>Thirdly, he readily<note place="margin">3. Receiues the teſtimo<g ref="char:EOLunhyphen"/>ny of Gods miniſters before all the world.</note> receiues the teſtimonie of Gods miniſters ſpea<g ref="char:EOLhyphen"/>king out of the word, &amp; ſticks to it againſt all the contradictions of the world. The Apoſtle <hi>Paul</hi> 2. Theſſal. 1. 10. ſhewes,
+<pb n="49" facs="tcp:173174:29"/> that this ſigne will be pleaded and acknow<g ref="char:EOLhyphen"/>ledged in the day of Chriſt: <hi>Chriſt,</hi> ſaith he, <hi>will be made admirable in them that beleeue.</hi>
+            </p>
+            <p>Now ſome may ſay, But how ſhall we know that we do beleeue?</p>
+            <p>Why, ſaith he, you are true beleeuers, <hi>be<g ref="char:EOLhyphen"/>cauſe ye receiued our te<g ref="char:EOLhyphen"/>ſtimonie;</hi> and this ſhall be to your praiſe in that day.</p>
+            <p>Fourthly, he cannot<note place="margin">4. Caſts out hypocriſie.</note> abide counterfetting &amp; hypocriſy. If it be a right perſwaſion, it is a <hi>faith vnfained; Vnfained</hi> I ſay,
+<pb n="50" facs="tcp:173174:30"/> as in other reſpects, ſo in affects, becauſe it can<g ref="char:EOLhyphen"/>not abide fainings, but with ſpeciall hatred pur<g ref="char:EOLhyphen"/>geth out hypocriſie; which the perſwaſion of hypocrites neuer doth. 2. Tim. 1. 5.</p>
+            <p>Fiftly, this perſwaſion<note place="margin">5. Will a<g ref="char:EOLhyphen"/>bide triall.</note> is permanent: it will en<g ref="char:EOLhyphen"/>dure triall, it will hold out in the euill day; it inclines the heart to cleaue to Ieſus Chriſt, euen in the fire of tribu<g ref="char:EOLhyphen"/>lation, in the midſt of <hi>manifold afflictions,</hi> and diſgraces, and temptati<g ref="char:EOLhyphen"/>ons. It is like <hi>the gold</hi> in the fornace <hi>that periſh<g ref="char:EOLhyphen"/>eth
+<pb n="51" facs="tcp:173174:30"/> not;</hi> nor will it barely hold out: but a Chriſtia<g ref="char:cmbAbbrStroke">̄</g> by his faith comforts &amp; ſupports himſelfe in af<g ref="char:EOLhyphen"/>fliction, ſo as his faith becomes to him both a <hi>breast-plate</hi> &amp; an <hi>helmet:</hi> whereas the beſt faith, that is not the faith of Gods elect, will proue but droſſe, if it be caſt into the fornace of tem<g ref="char:EOLhyphen"/>ptation, further then it is ſupported by carnall meanes and helps. 1. Pet. 1. 6, 7. 2. Tim. 1. 12. 1. Theſſ. 5. 8. Eph. 6. Luke 8. 13.</p>
+            <p>Sixtly, he will <hi>beleeue</hi>
+               <note place="margin">6. It be<g ref="char:EOLhyphen"/>leeues all things.</note> 
+               <hi>all things:</hi> I ſay all things
+<pb n="52" facs="tcp:173174:31"/> that he apprehendeth to be required, threat<g ref="char:EOLhyphen"/>ned, or promiſed in the word. To beleeue ſome things onely, may be in any other kind of faith, eſpecially when they are ſuch things as ſtand with their owne reaſons, or wils, or affections, or the common opinion of other men: But this is the glorie of a liuely in<g ref="char:EOLhyphen"/>ſtifying faith, it will giue glorie to God in all things. <hi>What God can ſpeake, it can beleeue:</hi> ſo ſoone as it knowes it is ſpoken of God, though it be neuer ſo contrary
+<pb n="53" facs="tcp:173174:31"/> to the iudgment of fleſh and bloud, Act. 14. 14.</p>
+            <p>Seuenthly, he <hi>will not</hi>
+               <note place="margin">7. Will not make haſte</note> 
+               <hi>make haſte.</hi> This was the ſigne giuen in the Pro<g ref="char:EOLhyphen"/>phet <hi>Eſays</hi> time: He that beleeueth will not make haſte. He had prophe<g ref="char:EOLhyphen"/>ſied of hard times to fall vpo<g ref="char:cmbAbbrStroke">̄</g> all the people: now this wold ſhew amongſt them, who were true be<g ref="char:EOLhyphen"/>leeuers. For thoſe that truſted in God, would <hi>not make haſte</hi> to vſe ill meanes to helpe them<g ref="char:EOLhyphen"/>ſelues; they would ſtay their hearts in <hi>reſt and quietnes,</hi> and they would ſtay their feete too from
+<pb n="54" facs="tcp:173174:32"/> running to <hi>Aegypt,</hi> or to <hi>Aſſhur,</hi> which God had forbidden, Iſai. 28. 16.</p>
+            <p>If faith be right, and thy perſwaſion a ſound perſwaſion, and well grounded, there are ioy<g ref="char:EOLhyphen"/>ned with it theſe things following.</p>
+            <p>Eightly, his perſwaſio<g ref="char:cmbAbbrStroke">̄</g>
+               <note place="margin">8. Is acco<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>panied with a pure conſcience.</note> is ioyned with a good and pure conſcience; a conſcience, I ſay, that makes him carefull to a<g ref="char:EOLhyphen"/>uoid ſinne, and do good duties, and to ſerue God in ſinceritie: whereas the perſwaſio<g ref="char:cmbAbbrStroke">̄</g> that is in wic<g ref="char:EOLhyphen"/>ked men, is not accom<g ref="char:EOLhyphen"/>panied with a good con<g ref="char:EOLhyphen"/>ſcience,
+<pb n="55" facs="tcp:173174:32"/> they do not make co<g ref="char:cmbAbbrStroke">̄</g>ſcience of their wayes. Now this is a cleare rule of difference, 1. Tim. 1. 5. 19. and 3. 9. Heb. 10. 22.</p>
+            <p>Ninthly, he hath a <hi>ſpi<g ref="char:EOLhyphen"/>rit</hi>
+               <note place="margin">9. And a ſpirit of diſcerning.</note> of diſcerning. There is a great deale of light comes into the heart with faith. A man can<g ref="char:EOLhyphen"/>not beleeue, and be ig<g ref="char:EOLhyphen"/>norant ſtill. The Chri<g ref="char:EOLhyphen"/>ſtian that is endued with faith from aboue, is en<g ref="char:EOLhyphen"/>dued with <hi>wiſedome from aboue:</hi> ſo as he can con<g ref="char:EOLhyphen"/>ceiue of the things of God that concerne ſal<g ref="char:EOLhyphen"/>uation, which <hi>the natu<g ref="char:EOLhyphen"/>rall
+<pb n="56" facs="tcp:173174:33"/> man perceiueth not.</hi> Though he may want ſtill in many knowled<g ref="char:EOLhyphen"/>ges, yet he hath skill in ſome meaſure to learne how to be ſaued. The doctrine of ſaluation he can now vnderſtand, which is taught in the miniſterie of the word; and he now can make ſome good vſe of rea<g ref="char:EOLhyphen"/>ding the Scriptures, that before diſcerned litle or nothing in them. <hi>The veile that lieth vpon the hearts of all fleſh; is now taken from</hi> his eyes; yea the <hi>very entrance into Gods word giueth light
+<pb n="57" facs="tcp:173174:33"/> to the ſimpleſt</hi> beleeuer. He that was ſtupid and vnteachable before, doth now <hi>heare as the learned,</hi> with a holy kind of inſight and iudge<g ref="char:EOLhyphen"/>ment: 2. Tim. 3. 15. Pſal. 119. 130. Prou. 1. 4. 8. &amp; 5. 9.</p>
+            <p>Tenthly, he hath a<note place="margin">10. And the witneſſe of the Spirit of adoptio<g ref="char:cmbAbbrStroke">̄</g>.</note> witneſſe within himſelf. <hi>He that beleeueth hath a witneſſe in himſelfe,</hi> 1. Ioh. 5. 10. For he hath the Spirit of adoption to certifie him infallibly of Gods loue to him, &amp; that he is the child of God, Rom. 8. 15. 16: and thus the beleeuers are
+<pb n="58" facs="tcp:173174:34"/> ſaid to be <hi>ſealed by the Spirit of promiſe,</hi> Epheſ. 1. 13. 14. God leaues a pawne, a pledge with e<g ref="char:EOLhyphen"/>uery Chriſtian that ſhal be ſaued, to be as the earneſt of his ſaluation, and this pledge and ear<g ref="char:EOLhyphen"/>neſt is Gods Spirit. And the Spirit teſtifies to the beleeuer, partly by re<g ref="char:EOLhyphen"/>uealing to him the cer<g ref="char:EOLhyphen"/>taintie &amp; truth of Gods promiſes in his word; &amp; partly by printing vpon his hart theſe ſauing gra<g ref="char:EOLhyphen"/>ces, which diſtinguiſh him from all others; and partly by powring vpon him the ioyes, which are
+<pb n="59" facs="tcp:173174:34"/> called the ioyes of the holy Ghoſt, in the vſe of Gods ordinances, as the inward ratificatio<g ref="char:cmbAbbrStroke">̄</g> of the aſſurance of Gods loue and goodnes to the be<g ref="char:EOLhyphen"/>leeuer. Of which after.</p>
+            <p>Laſtly, Faith may be<note place="margin">11. Beareth thoſe fruits following.</note> diſcerned by many things it worketh, which are the fruits of it: and by the fruits of faith, we may know faith it ſelfe. Faith is like the roote of a tree, that lyeth vnder ground, and cannot be ſeen without much dig<g ref="char:EOLhyphen"/>ging; but by the fruit the tree beareth, we may know what kind of root
+<pb n="60" facs="tcp:173174:35"/> it hath, and of what ſort it is. Now the fruits of faith are theſe that fol<g ref="char:EOLhyphen"/>low, and ſuch like, as,</p>
+            <p n="1">1. Loue to God and<note place="margin">1. Loue.</note> the godly: for <hi>Faith wor<g ref="char:EOLhyphen"/>keth by loue,</hi> Gal. 5. 6.</p>
+            <p n="2">2. Cleanneſſe of the<note place="margin">2. Puritie of heart.</note> thoughts and affections. For <hi>Faith purifieth the heart.</hi> It makes a man ſtriue after inward puri<g ref="char:EOLhyphen"/>tie, as well as outward: to get a <hi>cleane heart</hi> as well as <hi>cleane hands.</hi> It worketh humiliation for inward ſinnes as well as outward, Act. 15. 9. and driues a man to ſeeke pardon in the name of
+<pb n="61" facs="tcp:173174:35"/> Chriſt, for all ſorts of in<g ref="char:EOLhyphen"/>ward perturbations and ſecret euils.</p>
+            <p n="3">3. <hi>Victorie ouer the</hi>
+               <note place="margin">3. Victorie ouer the world.</note> 
+               <hi>world.</hi> Faith ouercom<g ref="char:EOLhyphen"/>meth the world, 1. Iob. 5. 4. 5: and ſo it doth, when it maketh a man ſo reſt vpon God, and his truth and promiſe, as, if he be put to it, to deny the re<g ref="char:EOLhyphen"/>ſpect of his owne credit, or profit, or pleaſures, or the diſpleaſure of carnal friends, or his hopes in matters of the world; re<g ref="char:EOLhyphen"/>ſting ſatisfied with the expectation of the trea<g ref="char:EOLhyphen"/>ſures and pleaſures of a better world, yeelding
+<pb n="62" facs="tcp:173174:36"/> himſelfe ouer to be gui<g ref="char:EOLhyphen"/>ded by Chriſt, and his truth, vnto the death, Pſal. 48. 14. <hi>He liues by his faith,</hi> Gal. 2. 20.</p>
+            <p n="4">4. Humilitie. For a<note place="margin">4. Humility</note> true faith excludes boa<g ref="char:EOLhyphen"/>ſting of our owne la<g ref="char:EOLhyphen"/>bors, gifts or praiſes; and makes vs able, out of the ſence of our owne vile<g ref="char:EOLhyphen"/>neſſe, to acknowledge all the glory to Gods free grace and loue in Ieſus Chriſt, Rom. 3. 17. Gal. 3. 22.</p>
+            <p n="5">5. The confeſſion<note place="margin">5 Confeſſio<g ref="char:cmbAbbrStroke">̄</g>
+               </note> and profeſſion of the truth. Faith will make a man ſpeake in defence
+<pb n="63" facs="tcp:173174:36"/> of the truth: <hi>I haue belee<g ref="char:EOLhyphen"/>ued, therefore haue I ſpo<g ref="char:EOLhyphen"/>ken,</hi> ſaith <hi>Dauid,</hi> Pſalme 116: which the Apoſtles pleade to proue their faith alſo: 2. Cor. 4. 13. 14.</p>
+            <p n="6">6. The putting on of<note place="margin">6. Applica<g ref="char:EOLhyphen"/>tion of Chriſts righteouſ<g ref="char:EOLhyphen"/>neſſe.</note> righteouſneſſe, which is not by the works of the Law done by vs. The application of, and re<g ref="char:EOLhyphen"/>lying vpon the righte<g ref="char:EOLhyphen"/>ouſneſſe of Ieſus Chriſt, is the proper and onely worke of true faith. Rom. 10.</p>
+            <p n="7">7. It opens a ſpring<note place="margin">7. A verie ſpring of grace.</note> of graces in the heart of a true Chriſtian: he that
+<pb n="64" facs="tcp:173174:37"/> is a true beleeuer, is qualified with ſun<g ref="char:EOLhyphen"/>drie heauenly gifts, which were not in him by nature; which gifts do daily diſcouer them<g ref="char:EOLhyphen"/>ſelues in his heart, flo<g ref="char:EOLhyphen"/>wing from thence, as if there were a ſpring of liuing waters in his bel<g ref="char:EOLhyphen"/>lie. <hi>Sanctification of the ſpirit, and faith of the truth</hi> be inſeparable, Ioh. 7. 38. 2. Theſſalo<g ref="char:EOLhyphen"/>nians, 2. 13.</p>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="65" facs="tcp:173174:37"/>
+            <head>CHAP. V.</head>
+            <argument>
+               <p>
+                  <hi>The triall of a godly man by ſuch heauenly gifts as ſerue him in his iour<g ref="char:EOLhyphen"/>ney to heauen.</hi>
+               </p>
+            </argument>
+            <p>THus of his triall in his humiliation, and in his faith. It followeth in the third place to trie him by his gifts, which are the fruits of faith. The true Chri<g ref="char:EOLhyphen"/>ſtian differs from the wicked man in two ſorts<note place="margin">Two ſorts of graces in a Chri<g ref="char:EOLhyphen"/>ſtian.</note> of gifts: Some of them are ſuch gifts as are be<g ref="char:EOLhyphen"/>ſtowed vpon him from aboue, but ſerue him
+<pb n="66" facs="tcp:173174:38"/> onely for his ſpirituall vſe, <hi>while he is on the way</hi> in his iourney to heauen, and ſo onely in this life; ſuch as are the <hi>ſacred thirſt: The loue to the word,</hi> and meanes of his holineſſe: <hi>The ſpirit of ſupplication: The loue of his enemies,</hi> and <hi>his de<g ref="char:EOLhyphen"/>ſire after the appearance of Ieſus Chriſt.</hi> Other gifts he hath, which will accompanie him <hi>home into his heauenly country,</hi> and abide vpon him for euer, and are not aboli<g ref="char:EOLhyphen"/>ſhed by death: ſuch as are <hi>ſauing knowledge, the loue of God,</hi> and <hi>the loue
+<pb n="67" facs="tcp:173174:38"/> of the godly.</hi> Firſt there<g ref="char:EOLhyphen"/>fore of thoſe heauenly gifts which will paſſe a<g ref="char:EOLhyphen"/>way: and ſo he is quali<g ref="char:EOLhyphen"/>fied with fiue diſtinct holy gifts, which cannot be found in any repro<g ref="char:EOLhyphen"/>bate.</p>
+            <p>The firſt is <hi>his holy</hi>
+               <note place="margin">The holy thirſt that is in the god<g ref="char:EOLhyphen"/>ly Chri<g ref="char:EOLhyphen"/>ſtian tried by foure ſignes.</note> 
+               <hi>thirſt,</hi> which is a heauen<g ref="char:EOLhyphen"/>ly kind of appetite, by which he is carried to the deſire of things a<g ref="char:EOLhyphen"/>boue nature; ſuch as are the merits and <hi>righte<g ref="char:EOLhyphen"/>ouſneſſe of Chriſt:</hi> the <hi>fa<g ref="char:EOLhyphen"/>uour of God:</hi> the <hi>preſence of God:</hi> the <hi>full deliue<g ref="char:EOLhyphen"/>rance from all ſinne:</hi> the <hi>remouing of ſpirituall
+<pb n="68" facs="tcp:173174:39"/> iudgements:</hi> the <hi>ſalua<g ref="char:EOLhyphen"/>tion of other men,</hi> and the like; and this thirſt is a ſigne the more infalli<g ref="char:EOLhyphen"/>ble.</p>
+            <p n="1">1. Becauſe it is <hi>con<g ref="char:EOLhyphen"/>ſtant</hi> and indelible in this life. There is no part of his life, but it conti<g ref="char:EOLhyphen"/>nueth either in the <hi>ſence</hi> of his affection, or in the <hi>iudgement</hi> of his vnder<g ref="char:EOLhyphen"/>ſtanding, ſo as he ac<g ref="char:EOLhyphen"/>counts <hi>ſpirituall things</hi> to be <hi>the beſt things:</hi> and though at ſome times his affections may be the leſſe moued after them, yet his appetite is <hi>daily renewed,</hi> as it is in
+<pb n="69" facs="tcp:173174:39"/> the hunger, or thirſt, that is bodily.</p>
+            <p n="2">2. Becauſe it is <hi>indu<g ref="char:EOLhyphen"/>ſtrious.</hi> For this holy thirſt will guide him to a carefull <hi>vſe of all the meanes,</hi> by which good things may be attained; and doth not breathe it ſelfe out onely with ſud<g ref="char:EOLhyphen"/>den and vaine wiſhes, or flaſhes of deſire, Pſal. 27. 4. 1. Pet. 2. 2. Pſal. 63. 1. 2. Pſalme 1. 2. Acts 2. 37.</p>
+            <p n="3">3. Becauſe it works a conſtant and ſecret <hi>me<g ref="char:EOLhyphen"/>ditation</hi> of heauenly things deſired, the heart frequently ſeekes after God day and night.
+<pb n="70" facs="tcp:173174:40"/> Iſaiah 26. 9. Pſalme 63. 1. 6. For what we deſire feruently, we thinke on almoſt continually.</p>
+            <p n="4">4. Becauſe if the Lord quench his thirſt, and ſa<g ref="char:EOLhyphen"/>tisfie his deſire in ſpiri<g ref="char:EOLhyphen"/>tuall things, <hi>the ſoule be<g ref="char:EOLhyphen"/>comes as a watered gar<g ref="char:EOLhyphen"/>den;</hi> and then followes in him an heauenly kind of <hi>ſatisfaction and con<g ref="char:EOLhyphen"/>tentment</hi> with ſingular delight in the ſoule, and <hi>vowes</hi> and wiſhes of in<g ref="char:EOLhyphen"/>finite and eternall thank<g ref="char:EOLhyphen"/>fulneſſe, Pſalme 63. 4. 5. Iere. 31. 25. 26.</p>
+            <p>And thus much of the firſt gift.</p>
+            <pb n="71" facs="tcp:173174:40"/>
+            <p>Secondly, the loue<note place="margin">His triall by his loue to the word.</note> to the word is another ſigne that he is the child of God, and a cleare eui<g ref="char:EOLhyphen"/>dence of his ſaluation. Now becauſe all ſorts of wicked men may reſort to the exerciſes of the word, and thoſe that haue but a temporarie faith may ſhew a great eſtimation of the word, and find ioy in the hea<g ref="char:EOLhyphen"/>ring of it, &amp; ſhew much zeale in things that con<g ref="char:EOLhyphen"/>cerne the word, and may yeeld ſome obedience to the directions of the word alſo: it is profita<g ref="char:EOLhyphen"/>ble to conſider how the
+<pb n="72" facs="tcp:173174:41"/> true Chriſtian may proue that his affection to the word is more ſin<g ref="char:EOLhyphen"/>cere then that affection which any wicked man can bring to the word. And thus he may find that his heart is ſound in his loue to the word, by theſe marks.</p>
+            <p n="1">1. By his manner of<note place="margin">13. Signes to trie his affection to the word by.</note> receiuing it, when he doth receiue the word, <hi>as the word of God, and not of men:</hi> ſetting his heart before Gods pre<g ref="char:EOLhyphen"/>ſence, and being affe<g ref="char:EOLhyphen"/>cted as if the Lord him<g ref="char:EOLhyphen"/>ſelfe ſhould ſpeake vnto him. This no wicked
+<pb n="73" facs="tcp:173174:41"/> man dares do: he dares not preſent himſelfe with the whole intend<g ref="char:EOLhyphen"/>ments of his heart be<g ref="char:EOLhyphen"/>fore the Lord. For this ſigne the Apoſtle <hi>Paule</hi> acknowledged the Theſ<g ref="char:EOLhyphen"/>ſalonians to be true Chriſtians, 1. Theſſal. 2. 13.</p>
+            <p n="2">2. By his Appetite to the word. For there is in a godly man as true an hunger after the word, as the food of his ſoule, as there is in his ſto<g ref="char:EOLhyphen"/>mach after the foode of his body; which ſhewes it ſelfe to be the more ſincere, becauſe it is con<g ref="char:EOLhyphen"/>ſtant,
+<pb n="74" facs="tcp:173174:42"/> he deſires the word at all times, <hi>and as his appointed foode daily;</hi> as it is in the bodily ap<g ref="char:EOLhyphen"/>petite, though after fee<g ref="char:EOLhyphen"/>ding the ſtomach may ſeeme to be full and ſa<g ref="char:EOLhyphen"/>tisfied, yet the hunger reuiues againe euery day, ſo it is with the heart of a child of God: whereas wicked men re<g ref="char:EOLhyphen"/>gard the word but by fits, and in a paſſion, and then at length fall cleane away from the affection to it, Pſal. 119. 20. Iob. 23. 12.</p>
+            <p n="3">3. By his loue to them that loue the word.</p>
+            <p n="4">
+               <pb n="75" facs="tcp:173174:42"/>4. By his ſorrow, be<g ref="char:EOLhyphen"/>cauſe other men keepe not the word, Pſal. 119. 136.</p>
+            <p n="5">5. By his vnfained e<g ref="char:EOLhyphen"/>ſtimation of the word a<g ref="char:EOLhyphen"/>boue all worldly things, accounting it to be an happy portion to enioy the word in the power and profit of it, Pſal. 119. 14. 72. 111.</p>
+            <p n="6">6. By his deſire &amp; de<g ref="char:EOLhyphen"/>light to <hi>exerciſe himſelfe in it day and night,</hi> that is, conſtantly, Pſal. 1. 2.</p>
+            <p n="7">7. By his griefe ei<g ref="char:EOLhyphen"/>ther for the want of the meanes by which the word might be taught
+<pb n="76" facs="tcp:173174:43"/> vnto him with power, accounting ſuch want of the meanes to be a ſore famine; or for want of ſucceſſe in y<hi rend="sup">e</hi> vſe of the meanes whe<g ref="char:cmbAbbrStroke">̄</g> he doth en<g ref="char:EOLhyphen"/>ioy it, Pſa. 42. 3. Am. 8. 12.</p>
+            <p n="8">8. By the extent of his loue to all the words of God, euen the Law, that with threatening ſhewes him his ſin, and ſearcheth out his moſt ſecret corruptions; be<g ref="char:EOLhyphen"/>ing moſt affected with that miniſtery that doth moſt ſharply rebuke ſin.</p>
+            <p n="9">9. By his reſolution to labour as hard for the food of his ſoule, as men
+<pb n="77" facs="tcp:173174:43"/> do, or he would do for the food of his bodie, Ioh. 6. 27. Amos 8. 12.</p>
+            <p n="10">10. By the conſtant ſweet taſte he finds in it, eſpecially when it is po<g ref="char:EOLhyphen"/>werfully preached, Pſal. 19. 10. 2. Cor. 2. 15.</p>
+            <p n="11">11. By the end he pro<g ref="char:EOLhyphen"/>pounds vnto himſelfe in the vſe of the word, which is, that he might not ſinne; and that his wayes might be made pleaſing to God, hiding the word in his heart to this purpoſe, Pſal. 119. 11.</p>
+            <p n="12">12. By his willingnes and reſolution to denie his owne reaſon and af<g ref="char:EOLhyphen"/>fections,
+<pb n="78" facs="tcp:173174:44"/> his credite, his carnall friends, his pro<g ref="char:EOLhyphen"/>fits, or his pleaſures in any thing, when God ſhould ſo require it of him, and vpon any oc<g ref="char:EOLhyphen"/>caſion to ſhew his hear<g ref="char:EOLhyphen"/>tie reſpect of the Goſ<g ref="char:EOLhyphen"/>pell, Mar. 10. 2. 9. 1. Cor. 1. 18.</p>
+            <p n="13">13. By the effects of it: as,</p>
+            <p n="1">1. When for the loue he beares to the word; he will ſeparate himſelfe from the wicked, that might any way with<g ref="char:EOLhyphen"/>draw his heart, or endan<g ref="char:EOLhyphen"/>ger his diſobedience, Pſal. 119. 115.</p>
+            <p n="2">
+               <pb n="79" facs="tcp:173174:44"/>2. When he accounts the word to be his chiefe comfort in affliction, &amp; finds it to be the maine ſtay, and ſolace of his heart, Pſal. 119. 23. 24. 50. 51. 54. 143.</p>
+            <p n="3">3. When it works in him effectually the re<g ref="char:EOLhyphen"/>dreſſe of his wayes, and freedome from the do<g ref="char:EOLhyphen"/>minion of ſin, Ioh. 8. 33. Pſal. 119. 45. 9. 59. 1. Theſ. 2. 13.</p>
+            <p n="4">4. When it works in him certaine and ſenſi<g ref="char:EOLhyphen"/>ble aſſurance of heart before God. This aſſu<g ref="char:EOLhyphen"/>ra<g ref="char:cmbAbbrStroke">̄</g>ce is an infallible ſigne of the right vſe of the
+<pb n="80" facs="tcp:173174:45"/> word, 1. Theſſ. 1. 5.</p>
+            <p>And thus of the ſe<g ref="char:EOLhyphen"/>cond gift.</p>
+            <p>The third gift is the<note place="margin">His triall by his gift of prayer.</note> 
+               <hi>ſpirit of prayer</hi> or ſuppli<g ref="char:EOLhyphen"/>cation, as the Prophet <hi>Zacharie</hi> cals it, Zach. 12. 10: and this gift he hath aboue all wicked men, which he ſhewes many<note place="margin">13. Rules of triall.</note> wayes: as,</p>
+            <p n="1">1. He <hi>askes according to Gods will,</hi> 1. Ioh. 5. 14.</p>
+            <p n="2">2. He prays with per<g ref="char:EOLhyphen"/>ſwaſion that God will heare him. He <hi>beleeueth</hi> in ſome meaſure <hi>that he ſhall haue</hi> what he prays for. He prayes <hi>in faith,</hi> Mark. 11. 14. Iam. 1. 6. 7.
+<pb n="81" facs="tcp:173174:45"/> Pſal. 6. 9. 1. Ioh. 3. 19. 22.</p>
+            <p n="3">3. He prayes <hi>in the name of Chriſt,</hi> and is af<g ref="char:EOLhyphen"/>fected with the ſence of his owne vileneſſe, and relies vpon the merits and mediation of Ieſus Chriſt, Ioh. 14. 13. Pſal. 86. 1. 2. &amp; 143. 4.</p>
+            <p n="4">4. He will pray <hi>at all times,</hi> Iob 27. 9. Pſalme 106. 2.</p>
+            <p n="5">5. He is <hi>feruent in prayer:</hi> his heart prayeth: he hath the affections of prayer, Iam. 5. 16. Pſal. 6. 8.</p>
+            <p n="6">6. Prayer makes him exceeding weary of the world: it giues him ſuch
+<pb n="82" facs="tcp:173174:46"/> a taſte of his owne ſin<g ref="char:EOLhyphen"/>fulneſſe, and of Gods goodneſſe, and of the glorie of heauen, that he is vehemently carried with <hi>deſire to be abſent from the bodie, that he might be preſent with the Lord,</hi> Pſal. 39. 12.</p>
+            <p n="7">7. <hi>When he knowes not how to pray as he ought, the Spirit</hi> prepares his heart, excites in him ho<g ref="char:EOLhyphen"/>ly deſires, ſupplies him ſometimes with words, ſometimes with affecti<g ref="char:EOLhyphen"/>ons, and ſomtimes wor<g ref="char:EOLhyphen"/>keth inward <hi>vnexpreſſa<g ref="char:EOLhyphen"/>ble groanes,</hi> which yet it preſents to God, as effe<g ref="char:EOLhyphen"/>ctuall
+<pb n="83" facs="tcp:173174:46"/> prayers, Ro. 8. 26. 27.</p>
+            <p n="8">8. He findes an holy <hi>reſt,</hi> and quietneſſe in his conſcience and heart, with ſpirituall <hi>boldneſſe</hi> and <hi>confidence</hi> of truſt in God, if he <hi>heare him gra<g ref="char:EOLhyphen"/>ciouſly,</hi> and <hi>anſwer him</hi> in mercie, Pſal. 3. 4. 5. 6. &amp; 116. 1. 7. &amp; 91. 15. 17. Ierem. 33. 3.</p>
+            <p n="9">9. <hi>He loues the Lord</hi> exceedingly <hi>for hearing his prayer,</hi> and deſires to <hi>keepe himſelfe in the loue of God,</hi> Pſal. 116. 1. Iude 20.</p>
+            <p n="10">10. His prayers pro<g ref="char:EOLhyphen"/>ceed from a heart that
+<pb n="84" facs="tcp:173174:47"/> loues no ſin, but deſires to <hi>depart from iniquitie,</hi> and to do that which is pleaſing in Gods ſight, 2. Tim. 2. 19. 1. Ioh. 3. 22.</p>
+            <p n="11">11. He loues prayer in others, 2. Tim. 1. 22.</p>
+            <p n="12">12. He ſtriues againſt deadneſſe of ſpirit and diſtractions, as an heauy burthen, Pſal. 86. 3. 4.</p>
+            <p n="13">13. He makes prayer his chiefe refuge; and he will pray, though prayer be in neuer ſo much diſ<g ref="char:EOLhyphen"/>grace, Pſal. 69. 10. 13. &amp; 142. 2. 5.</p>
+            <p>And thus of the third gift.</p>
+            <p>The fourth gift is the
+<pb n="85" facs="tcp:173174:47"/> 
+               <hi>loue of his enemies.</hi> Any<note place="margin">His loue to his ene<g ref="char:EOLhyphen"/>mies tried.</note> Chriſtia<g ref="char:cmbAbbrStroke">̄</g> may loue ſuch as loue him; but to loue his enemies, is onely to be found in the true Chriſtian, which he proues by theſe tokens of the ſinceritie of his loue:</p>
+            <p n="1">1. He can <hi>pray</hi> hear<g ref="char:EOLhyphen"/>tily <hi>for them,</hi> yea in ſome caſes he can mourne, &amp; <hi>humble his ſoule</hi> before God for them in their diſtreſſes, Pſal. 35. 13. 14.</p>
+            <p n="2">2. He <hi>deſires their con<g ref="char:EOLhyphen"/>uerſion</hi> ſo vnfainedly, that he is ſure, if they were co<g ref="char:cmbAbbrStroke">̄</g>uerted, he could reioyce in them as hear<g ref="char:EOLhyphen"/>tily,
+<pb n="86" facs="tcp:173174:48"/> as in thoſe he now much delights in.</p>
+            <p n="3">3. He can likewiſe <hi>for<g ref="char:EOLhyphen"/>giue</hi> them their particu<g ref="char:EOLhyphen"/>lar treſpaſſes againſt him; being more grie<g ref="char:EOLhyphen"/>ued for their ſins againſt God, the<g ref="char:cmbAbbrStroke">̄</g> for the wrongs they do him, Mat. 6. 14.</p>
+            <p n="4">4. He can freely ac<g ref="char:EOLhyphen"/>knowledge their iuſt praiſes.</p>
+            <p n="5">5. He can not onely patiently endure their reuilings, but can for<g ref="char:EOLhyphen"/>beare, when he could be reuenged by bringing ſhame or miſery vpon them, 1. Pet. 3. 9. Rom. 12. 14. 1. Sam. 24. 18. 19:
+<pb n="87" facs="tcp:173174:48"/> yea he doth, as he hath occaſion, ſtriue to <hi>ouer<g ref="char:EOLhyphen"/>come their euil with good<g ref="char:EOLhyphen"/>neſſe,</hi> being willing to helpe them, or releeue them in their miſerie, and do them any good for the ſoule or body.</p>
+            <p>The laſt gift which is found in the true Chri<g ref="char:EOLhyphen"/>ſtian,<note place="margin">His triall by the loue to the appea<g ref="char:EOLhyphen"/>ring of Chriſt.</note> while he is in the way in this life, is, <hi>His loue of the appearing of Chriſt,</hi> which he ſhewes:</p>
+            <p n="1">1. By the longing af<g ref="char:EOLhyphen"/>ter the time of Chriſts coming, whether by death or iudgement.</p>
+            <p n="2">2. By his gladneſſe at the promiſes, or ſignes
+<pb n="88" facs="tcp:173174:49"/> of his particular or ge<g ref="char:EOLhyphen"/>nerall coming.</p>
+            <p n="3">3. By his often medi<g ref="char:EOLhyphen"/>tations of that day, and his hearty prayers for the haſtening of it, Reu. 22. 10.</p>
+            <p n="4">4. By his daily care to diſpatch all thoſe godly duties which he deſires to do before his death, and accordingly by his willing diſpoſing of his eſtate, and ende<g ref="char:EOLhyphen"/>uors to ſet his houſe in order:</p>
+            <p>And this deſire of Chriſts coming is appa<g ref="char:EOLhyphen"/>rently the more ſincere in him:</p>
+            <p n="1">
+               <pb n="89" facs="tcp:173174:49"/>1. Becauſe it ariſeth out of his loue to God, and his hatred of his owne ſins, and his weari<g ref="char:EOLhyphen"/>nes vnder the obſerua<g ref="char:EOLhyphen"/>tion of other mens ſins.</p>
+            <p n="2">2. Becauſe this deſire is accompanied with the care of the meanes, by which he may be pre<g ref="char:EOLhyphen"/>pared for ſaluation.</p>
+            <p n="3">3. Becauſe he is thus affected euen in his proſ<g ref="char:EOLhyphen"/>peritie when he thriues in the world, and is not in any notable diſtreſſe.</p>
+            <p>Hitherto of his triall in ſuch gifts as he is en<g ref="char:EOLhyphen"/>dowed withall in this life onely: his triall in the
+<pb n="90" facs="tcp:173174:50"/> gifts that will abide in him for euer, follow.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>CHAP. VI.</head>
+            <argument>
+               <p>
+                  <hi>His triall in reſpect of ſuch heauenly gifts as will not be aboliſhed by death.</hi>
+               </p>
+            </argument>
+            <p>THe gifts that will abide in him for e<g ref="char:EOLhyphen"/>uer<note place="margin">The trial of his know<g ref="char:EOLhyphen"/>ledge.</note> are theſe three: <hi>Knowledge, the loue of God,</hi> and the <hi>loue of the brethren.</hi> Theſe are per<g ref="char:EOLhyphen"/>fected, and not aboli<g ref="char:EOLhyphen"/>ſhed by death.</p>
+            <p>And firſt, in his know<g ref="char:EOLhyphen"/>ledge<note place="margin">And ſo he differs fro<g ref="char:cmbAbbrStroke">̄</g> wicked men.</note> he differs from all wicked men, and ſo in
+<pb n="91" facs="tcp:173174:50"/> diuers things: as,</p>
+            <p>Firſt <hi>in the things he</hi>
+               <note place="margin">In the things he knowes.</note> 
+               <hi>knowes:</hi> he knowes the nature of God in a right manner: he knowes God in Ieſus Chriſt: he knowes the vileneſſe of his owne ſinnes: he knowes after an effectu<g ref="char:EOLhyphen"/>all manner the myſteries that concerne the ſalua<g ref="char:EOLhyphen"/>tion of his ſoule: he knowes his owne con<g ref="char:EOLhyphen"/>uerſion, and the forgiue<g ref="char:EOLhyphen"/>neſſe of his ſinnes, and the <hi>things that are giuen him of God:</hi> Mat. 13. 13. Iohn 17. 3. Iere. 31. 34. 1. Cor. 2. 12. He knowes that Ieſus Chriſt is in
+<pb n="92" facs="tcp:173174:51"/> him, 2. Cor. 13. 5.</p>
+            <p>2. Secondly, <hi>in the</hi>
+               <note place="margin">2. In the cauſe of his know<g ref="char:EOLhyphen"/>ledge.</note> 
+               <hi>cauſe of his knowledge.</hi> For <hi>fleſh and bloud did not reueale</hi> thoſe things vnto him, he came not by them by the vſe of naturall meanes, but they are wrought in him by the word &amp; Spi<g ref="char:EOLhyphen"/>rit of God, Mat. 16. 17. 1. Iohn 2. 27. and 5. 10. 1. Cor. 1. 30.</p>
+            <p>Thirdly, in the effects<note place="margin">3. In the ef<g ref="char:EOLhyphen"/>fects of his knowledg.</note> of his knowledge, for</p>
+            <p n="1">1. It breeds in him an vnſpeakable refreſhing and gladneſſe of heart in Gods preſence, Pſal. 36. 8. 9. 10. Philip. 1. 9.</p>
+            <p n="2">
+               <pb n="93" facs="tcp:173174:51"/>2. It inflames him to a wonderfull loue of the word of God aboue all earthly things, Pſal. 119. 97. 98.</p>
+            <p n="3">3. It works in him an effectuall ſauouring and taſting of the goodneſſe of ſpirituall things: Ro. 8. 5.</p>
+            <p n="4">4. It enclines him to a conſtant obedience and practiſe of Gods will, Pro. 8. 9. 17. Iohn 7. 17. Deut. 4. 6. It redreſſeth his wayes, Pſal. 119. 10. 1. Ioh. 2. 3. and 3. 24.</p>
+            <p n="5">5. It beates downe pride and conceitednes, and frowardneſſe, and
+<pb n="94" facs="tcp:173174:52"/> makes him humble and teachable, Pro. 3. 5. 6. and 8. 13. 14. Iames 3. 17.</p>
+            <p>Fourthly, in the <hi>proper<g ref="char:EOLhyphen"/>ties</hi>
+               <note place="margin">4. In the properties of his knowledge</note> 
+               <hi>of his knowledge:</hi> for</p>
+            <p n="1">1. It is <hi>infallible:</hi> his knowledge hath <hi>much aſſurance</hi> in many things with ſtrong confidence, and reſolution at ſome times eſpecially, when he is before God, 1. Theſ. 1. 5.</p>
+            <p n="2">2. It is <hi>indelible,</hi> it can<g ref="char:EOLhyphen"/>not be vtterly blotted out, it is faſt grauen in his heart; contrary do<g ref="char:EOLhyphen"/>ctrine, or perſecution cannot raze it out, Iere. 31. 34. Eph. 4. 13. Prou.
+<pb n="95" facs="tcp:173174:52"/> 4. 5. 6.</p>
+            <p n="3">3. It is <hi>ſincere,</hi> for firſt it inclineth him to giue glorie to God, and re<g ref="char:EOLhyphen"/>ceiue <hi>all truth,</hi> as well as any truth. He receiues the doctrine of God, though it be aboue rea<g ref="char:EOLhyphen"/>ſon, and againſt the co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mon opinion of men, or croſſe his profit, or deſires, or the like. Se<g ref="char:EOLhyphen"/>condly, it leades him principally <hi>to vnder<g ref="char:EOLhyphen"/>ſtand his owne way,</hi> and guides him to ſtudy the things chiefly that con<g ref="char:EOLhyphen"/>cerne his owne refor<g ref="char:EOLhyphen"/>mation and ſaluation, Pro. 14. 8. Coloſ. 3. 16.</p>
+            <pb n="96" facs="tcp:173174:53"/>
+            <p>And thus he differs from wicked men in his knowledge.</p>
+            <p>Secondly, in his loue<note place="margin">His loue to God tried by 9. ſignes.</note> to God he hath theſe things, which no wicked man can attaine to.</p>
+            <p n="1">1. He hath a deli<g ref="char:EOLhyphen"/>berate inward inflamed eſtimation of God a<g ref="char:EOLhyphen"/>boue all things, accoun<g ref="char:EOLhyphen"/>ting <hi>his louing kindneſſe better then life,</hi> and the ſignes of his fauour his greateſt ioy, Pſal. 63. 2. 11.</p>
+            <p n="2">2. He loues &amp; longs for the Lord Ieſus Chriſt with certaine &amp; ſincere affection, Epheſ. 6. 24. 2. Tim. 4. 8.</p>
+            <p n="3">
+               <pb n="97" facs="tcp:173174:53"/>3. He delights in Gods preſence, and ſhewes it by his vnfained loue to Gods houſe, Pſalme 26. 8: and by his heartie griefe for Gods abſence, Cant. 3. 1: and by his carefulneſſe to ſet the Lord daily before him, walking in his ſight Pſal. 16. 8.</p>
+            <p n="4">4. He hates ſin hearti<g ref="char:EOLhyphen"/>ly becauſe God hates it; and he diſlikes ſinners, becauſe they hate God; accounting Gods ene<g ref="char:EOLhyphen"/>mies as if they were his owne enemies, Pſal. 139. 21. 22. and 97. 10.</p>
+            <p n="5">5. He conſtantly de<g ref="char:EOLhyphen"/>ſires
+<pb n="98" facs="tcp:173174:54"/> to be <hi>like God in ho<g ref="char:EOLhyphen"/>lineſſe,</hi> being carefull to approue his affection to God by his <hi>obedience to his commandements,</hi> ſo as it is not <hi>grieuous to him</hi> to receiue directions, but ſerues God with all his heart, being fearefull to diſpleaſe God in any thing, Ioh. 14. 21. 1. Io. 5. 3. Deut. 10. 12. and 11. 22: &amp; is more affected with Gods approbation then all the praiſe of men, Rom. 2. 26.</p>
+            <p n="6">6. He is much affe<g ref="char:EOLhyphen"/>cted with Gods mercie, &amp; the bleſſings beſtow<g ref="char:EOLhyphen"/>ed vpon him, which he
+<pb n="99" facs="tcp:173174:54"/> thankfully remembers to the praiſe of Gods free grace, Eſa. 63. 7. Pſal. 63. 2. 3. 4. 6. 8. &amp; 107. 22. Iob 36. 24. Deut. 6. 2.</p>
+            <p n="7">7. He loues all the godly for this reaſon chiefly, becauſe they are like vnto God in holi<g ref="char:EOLhyphen"/>neſſe, as being begotten by him, 1. Ioh. 5. 1.</p>
+            <p n="8">8. He is as heartily vexed for any diſhonor done to God, as for any diſgrace offered to him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            <p n="9">9. Finally he ſhewes it in diuers caſes that befal him in his courſe in this life: as,</p>
+            <p n="1">
+               <pb n="100" facs="tcp:173174:55"/>1. If he be put to ſuf<g ref="char:EOLhyphen"/>fer any thing for Gods ſake, he endures it with much ioy and patience, 1. Theſſ. 1. 6. Act. 5. Iohn 22. 15, to 19.</p>
+            <p n="2">2. If at any time he offend God by his owne faultineſſe, he is heartily grieued and caſt downe, and doth conſtantly de<g ref="char:EOLhyphen"/>ſire to forſake any ſinne, though neuer ſo plea<g ref="char:EOLhyphen"/>ſing or gainefull vnto him, rather then he would diſpleaſe God, Deut. 30. 6.</p>
+            <p n="3">3. In all ſtreights and wants, he runs to God, relying vpon God as his
+<pb n="101" facs="tcp:173174:55"/> 
+               <hi>defence, rocke, and refuge</hi> in all times of troubles, making his moane vnto him, and powring out his prayers and com<g ref="char:EOLhyphen"/>plaints before him, Pſal. 18. 1. 2.</p>
+            <p>Thus of his loue to God.</p>
+            <p>Thirdly, his loue to<note place="margin">His loue to the godly tried by ten ſignes.</note> the godly doth alſo di<g ref="char:EOLhyphen"/>ſtinguiſh him from all the wicked men in the world, becauſe here are diuers things to be no<g ref="char:EOLhyphen"/>ted in his affection to them, which cannot be found in wicked men:</p>
+            <p n="1">1. As firſt, he loues the godly aboue all other
+<pb n="102" facs="tcp:173174:56"/> ſorts of me<g ref="char:cmbAbbrStroke">̄</g> in the world, he accounts them as the <hi>onely excellent people,</hi> Pſal 16. 3. 1. Ioh. 3. 14. and af<g ref="char:EOLhyphen"/>fects them as if they were his naturall kinred, Rom. 12. 9. 10.</p>
+            <p n="2">2. He loues them not for carnall reſpects, but for the graces of God in them, for <hi>the truths ſake,</hi> and becauſe <hi>they are begotten of God,</hi> 1. Ioh. 5. 1. 2. Ioh. 1. 2. 3. Ioh. 1.</p>
+            <p n="3">3. He delights in their <hi>fellowſhip</hi> and ſocietie in the Goſpell, as accoun<g ref="char:EOLhyphen"/>ting them the happie companions of this life, Pſal. 16. 3. 3. Ioh. 8. Phi<g ref="char:EOLhyphen"/>lippians
+<pb n="103" facs="tcp:173174:56"/> 1. 5.</p>
+            <p n="4">4. He hath a <hi>fellow fee<g ref="char:EOLhyphen"/>ling</hi> of their miſeries: he is in ſome meaſure affe<g ref="char:EOLhyphen"/>ctioned to weepe with them that weepe, and re<g ref="char:EOLhyphen"/>ioyce with them that re<g ref="char:EOLhyphen"/>ioyce; eſpecially he is glad when their ſoules proſper: Rom. 12. 16. 3. Ioh. 3.</p>
+            <p n="5">5. His deſire is to walk <hi>inoffenſiuely,</hi> as being loath any way to be <hi>an occaſion of ſtumbling,</hi> or ſcandall to any Chriſti<g ref="char:EOLhyphen"/>an, 1 Ioh. 2. 10.</p>
+            <p n="6">6. He can beare <hi>their infirmities,</hi> take things in the beſt ſence, <hi>ſuffer
+<pb n="104" facs="tcp:173174:57"/> long,</hi> &amp; is <hi>not eaſily prouo<g ref="char:EOLhyphen"/>ked:</hi> he <hi>hopeth all things,</hi> and <hi>boaſts not himſelfe,</hi> or enuies them, nor will <hi>receiue an euill report a<g ref="char:EOLhyphen"/>gainſt them,</hi> 1. Pet. 4. 8. 1. Cor. 13. 4. 5. 6. but ra<g ref="char:EOLhyphen"/>ther makes Apologie for them.</p>
+            <p n="7">7. He eaſily praiſeth them in all places for their grace, or obedi<g ref="char:EOLhyphen"/>ence, Rom. 16. 19. 3. Ioh. 6. Pſal. 15. 5. 1. Theſſ. 1. 8.</p>
+            <p n="8">8. His <hi>wel-doing ex<g ref="char:EOLhyphen"/>tends it ſelfe to them to</hi> his power, he is bounti<g ref="char:EOLhyphen"/>full, pitifull, and tender; he hath <hi>bowels of mercie,</hi> according to the occa<g ref="char:EOLhyphen"/>ſion
+<pb n="105" facs="tcp:173174:57"/> of mercy, either cor<g ref="char:EOLunhyphen"/>porall or ſpirituall. He gladly receiueth them, and with a ready mind communicates to their neceſſities, Philemon 7. 1. Pet. 3. 8. &amp; 4. 8. 1. Iohn 3. 17. 3. Ioh. 5.</p>
+            <p n="9">9. He loues <hi>all</hi> the bre<g ref="char:EOLhyphen"/>thren. He hath not the <hi>glorious faith of Chriſt in reſpect of perſons,</hi> Iam. 2. 1. 2. Eph. 1. 5. Col. 1. 4. He can make himſelfe <hi>equal to them of the lower ſort,</hi> Rom. 12. 16.</p>
+            <p n="10">10. Laſtly he loues them <hi>at all times,</hi> euen when they are in aduer<g ref="char:EOLhyphen"/>ſitie, diſgrace, ſickneſſe,
+<pb n="106" facs="tcp:173174:58"/> or any other miſery.</p>
+            <p>Hitherto of the godly mans triall by his gifts.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>CHAP. VII.</head>
+            <argument>
+               <p>
+                  <hi>The trial of the godly man by his works of obe<g ref="char:EOLhyphen"/>dience.</hi>
+               </p>
+            </argument>
+            <p>THe fourth way to<note place="margin">His works tried by 7. ſignes.</note> try him, is by his workes, or by his obedience in his life and conuerſation; and ſo his works excel all the workes of vnregenerate men many wayes: as,</p>
+            <p n="1">1. Becauſe what he doth, ariſeth <hi>out of the
+<pb n="107" facs="tcp:173174:58"/> loue he heares to God and goodneſſe;</hi> and therefore he doth good heartily, and not by conſtraint, or with repining, or delay: yea he is ſo ſtirred vp with the ſence of Gods goodneſſe to him, that he is much hu<g ref="char:cmbAbbrStroke">̄</g>bled when he hath done his beſt, that hee cannot bring more glorie to God, Deut. 30. 20. Ioſh. 22. 5. Mat. 4. 19. Rom. 6. 27.</p>
+            <p n="2">2. In doing good he hath <hi>reſpect vnto all Gods commandements:</hi> there is no part of an holy life but he deſires to practiſe it; and therefore he will
+<pb n="108" facs="tcp:173174:59"/> obey Gods will in ſome caſes when it is againſt his profit, credit, eaſe, or the liking of carnall friends, preferring Gods co<g ref="char:cmbAbbrStroke">̄</g>mandements aboue all things, yea life it ſelf, Ier. 35. Heb. 11. 8. Gen. 22. 12. Prou. 7. 2. Act. 5. 29. Mat. 16. 25. Exod. 15. 26. 1. Kin. 9. 4. Ier. 11. 4. Iohn 15. 14.</p>
+            <p n="3">3. He will do good <hi>at all times,</hi> and not for a fit; making conſcience of his wayes in all com<g ref="char:EOLhyphen"/>panies as well as any; <hi>ab<g ref="char:EOLhyphen"/>ſent</hi> as wel as <hi>preſent;</hi> be<g ref="char:EOLhyphen"/>fore meane Chriſtians, as wel as before the beſt:
+<pb n="109" facs="tcp:173174:59"/> at home as well as a<g ref="char:EOLhyphen"/>broad, Phil. 2. 12. Gal. 5. 7. 2. Kin. 18. 6. Pſal. 106. 2.</p>
+            <p n="4">4. He makes co<g ref="char:cmbAbbrStroke">̄</g>ſcience of <hi>the leaſt co<g ref="char:cmbAbbrStroke">̄</g>mandement</hi> as well as of the greateſt, Mat. 5. 19. Gal. 3. 7.</p>
+            <p n="5">5. <hi>He comes to the light, that his deeds might be manifeſt, that they are wrought in God,</hi> Ioh. 3. 21. He is deſirous in all things to be guided by the warrant of the word of God.</p>
+            <p n="6">6. He exerciſeth his <hi>faith</hi> in the very diſ<g ref="char:EOLhyphen"/>charge of the duties of his outward conuerſati<g ref="char:EOLhyphen"/>on. He <hi>liues by the faith
+<pb n="110" facs="tcp:173174:60"/> of the Sonne of God,</hi> and <hi>commits his way to God,</hi> and truſteth vpon the name of the Lord, Gal. 2. 20.</p>
+            <p n="7">7. He knoweth that his obedience is right, becauſe <hi>God heareth his prayers,</hi> and entertaines him graciouſly, when he calls vpon him in ſe<g ref="char:EOLhyphen"/>cret; whereas God hea<g ref="char:EOLhyphen"/>reth not ſinners; and if wickedneſſe were in his heart, God would not regard his prayers, Ioh. 9. 31. Pſal. 66. 18.</p>
+            <p>And thus of his works.</p>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="111" facs="tcp:173174:60"/>
+            <head>CHAP. VIII.</head>
+            <argument>
+               <p>
+                  <hi>His triall by the enter<g ref="char:EOLhyphen"/>tainment he hath from God.</hi>
+               </p>
+            </argument>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> THe fifth way by which he may be tried, is by the en<g ref="char:EOLhyphen"/>tertainment that God vouchſafeth him in this life, which he neuer vouchſafeth to wicked men. There are diuers<note place="margin">Sixe fauors God be<g ref="char:EOLhyphen"/>ſtowes vp<g ref="char:EOLhyphen"/>pon him which the wicked ne<g ref="char:EOLhyphen"/>uer feele. 1. Election in time.</note> ſpecialities of fauour which God ſheweth to him, and not to any vn<g ref="char:EOLhyphen"/>regenerate man: As</p>
+            <p n="1">1. His <hi>election in time</hi> is a manifeſt token of
+<pb n="112" facs="tcp:173174:61"/> Gods election of him before time: the Lord ſhews that he hath cho<g ref="char:EOLhyphen"/>ſen him fro<g ref="char:cmbAbbrStroke">̄</g> euerlaſting, when by the power of the Goſpell he ſeizeth vpon him particularly, &amp; effectually perſwades him to leaue the world, and the ſinfull ſocietie he liued in, and to de<g ref="char:EOLhyphen"/>uote himſelfe as a <hi>liuing ſacrifice</hi> vnto God.</p>
+            <p n="2">2. He is <hi>baptized with</hi>
+               <note place="margin">2. The bap<g ref="char:EOLhyphen"/>tiſme by fire.</note> 
+               <hi>the holy Ghoſt and fire:</hi> the <hi>baptiſme by fire</hi> is onely proper to Gods Elect: the holy Ghoſt at ſome times falls vpon him, &amp; ſets him all on a fire, on
+<pb n="113" facs="tcp:173174:61"/> a fire I ſay, both of ſud<g ref="char:EOLhyphen"/>daine and violent indig<g ref="char:EOLhyphen"/>nation at ſinne, as it is ſinne; as alſo the fire of holy affections, with which from God he fre<g ref="char:EOLhyphen"/>quently and on a ſudden is inflamed, while he ſtands before the Lord. For beſides the affectio<g ref="char:cmbAbbrStroke">̄</g> which a godly man brin<g ref="char:EOLhyphen"/>geth with him to Gods worſhip, he doth feele his heart oftentimes on a ſudden ſurpriſed with ſtrange impreſſions, ſometimes of ſorrow, ſometimes of feare and awful dread of God; ſometimes of feruent
+<pb n="114" facs="tcp:173174:62"/> deſires after God: ſome<g ref="char:EOLhyphen"/>times of ſtrong reſolu<g ref="char:EOLhyphen"/>tions of holy duties to be done by him, and the like, Math. 3. 11.</p>
+            <p n="3">3. He feeles at ſome<g ref="char:EOLhyphen"/>times<note place="margin">3. Much aſſurance.</note> in the vſe of Gods ordinances a maruel<g ref="char:EOLhyphen"/>lous worke of the holy Ghoſt, in reſpect of <hi>much aſſurance</hi> &amp; ſtrange eſtabliſhment of his heart, both in the cer<g ref="char:EOLhyphen"/>taine perſwaſio<g ref="char:cmbAbbrStroke">̄</g> of Gods loue, and the infallible beleefe of the truth; ſo as at that time no dan<g ref="char:EOLhyphen"/>ger or death could a<g ref="char:EOLhyphen"/>maze him, but he could willingly witneſſe his
+<pb n="115" facs="tcp:173174:62"/> confidence by vndergo<g ref="char:EOLhyphen"/>ing any thing could be<g ref="char:EOLhyphen"/>fall him, 1. Theſſ. 1. 5.</p>
+            <p n="4">4. He feeles at ſome<g ref="char:EOLhyphen"/>times<note place="margin">4. Ioy vn<g ref="char:EOLhyphen"/>ſpeakable.</note> the <hi>vnſpeakable &amp; glorious ioyes of the holy Ghoſt,</hi> which are differing from the carnal ioyes or illuſions may be found in wicked men, becauſe they are ſuch ioyes, as he feeles onely in the vſe of ſome ordinances of God, and ſuch as by ef<g ref="char:EOLhyphen"/>fect make him more humble, and vile in his owne eyes, and do en<g ref="char:EOLhyphen"/>flame him to an high de<g ref="char:EOLunhyphen"/>gree of the loue of God and goodneſſe; which
+<pb n="116" facs="tcp:173174:63"/> illuſions can neuer do.</p>
+            <p n="5">5. <hi>The ſanctification of</hi>
+               <note place="margin">5. The ſan<g ref="char:EOLhyphen"/>ctification of his affli<g ref="char:EOLhyphen"/>ctions.</note> 
+               <hi>his afflictions</hi> is another infallible ſigne of Gods loue to him. For God makes his croſſes to be<g ref="char:EOLhyphen"/>come bleſſings vnto him, &amp; worke his good, ſo as he may plainly ſee, that it was <hi>good for him to be afflicted:</hi> &amp; beſides, God giues him many times the experience of his goodneſſe both by vnexpected conſolation in his diſtreſſes, &amp; graci<g ref="char:EOLhyphen"/>ous deliuerance out of them<g ref="char:punc">▪</g> Rom. 8. 28. Pſ. 119.</p>
+            <p n="6">6. Laſtly, to this place<note place="margin">6. The an<g ref="char:EOLhyphen"/>ſwer of his prayers.</note> I may referre Gods hea<g ref="char:EOLhyphen"/>ring
+<pb n="117" facs="tcp:173174:63"/> &amp; anſwering of his prayers; whereas God doth not heare ſinners, as was ſhewed in the end of the former Chapter.</p>
+         </div>
+         <div n="9" type="chapter">
+            <head>CHAP. IX.</head>
+            <argument>
+               <p>
+                  <hi>His triall by the Sacra<g ref="char:EOLhyphen"/>ments.</hi>
+               </p>
+            </argument>
+            <p>THe ſixt &amp; laſt way<note place="margin">Sixe rules of his triall about the ſacrament.</note> of triall of the eſtate of a Chriſti<g ref="char:EOLhyphen"/>an, is by the Sacraments, and in particular by the <hi>Sacrament of the Lords ſupper.</hi> For God hath ap<g ref="char:EOLhyphen"/>pointed the two Sacra<g ref="char:EOLhyphen"/>ments to be his broad
+<pb n="118" facs="tcp:173174:64"/> ſeales to aſſure his fauor vnto his people: and be<g ref="char:EOLhyphen"/>cauſe none but worthy receiuers ca<g ref="char:cmbAbbrStroke">̄</g> be partakers of ſo great a priuiledge as the couena<g ref="char:cmbAbbrStroke">̄</g>t of Gods grace, and the Goſpel of Ieſus Chriſt: therefore hereby doth the true Chriſtian diſtinguiſh himſelfe from all men. For in becoming a <hi>wor<g ref="char:EOLhyphen"/>thy receiuer</hi> he doth di<g ref="char:EOLhyphen"/>uers things not only re<g ref="char:EOLhyphen"/>quired in co<g ref="char:cmbAbbrStroke">̄</g>municants, but ſuch as none but godly men can attaine vnto: As,</p>
+            <p n="1">1. He <hi>doth forgiue his enemies,</hi> as heartily as he
+<pb n="119" facs="tcp:173174:64"/> deſires God to forgiue him his treſpaſſes.</p>
+            <p n="2">2. He <hi>examines him<g ref="char:EOLhyphen"/>ſelfe,</hi> and vpon examina<g ref="char:EOLhyphen"/>tion he both <hi>eates with ſowre hearbes</hi> (that is, comes with ſome mea<g ref="char:EOLhyphen"/>ſure of griefe for his of<g ref="char:EOLhyphen"/>fences) and withall finds as vnfained a deſire, that he might neuer offend God in any thing as that God ſhould there aſſure him of the forgiuenes of his ſins, and that he will neuer puniſh him for any of them, 1. Cor. 11.</p>
+            <p n="3">3. The couenant of his heart is to cleaue to God, and the care of
+<pb n="120" facs="tcp:173174:65"/> godlineſſe all the dayes of his life, 1. Cor. 5. 8.</p>
+            <p n="4">4. He is in ſome mea<g ref="char:EOLhyphen"/>ſure perſwaded of Gods loue to him in Chriſts, &amp; <hi>diſcernes the Lords body,</hi> ſo as he is ſecretly in ſome degree perſwaded of the ſpirituall preſence of Ieſus Chriſt, &amp; of the operation of God: ſo as he beleeueth, that Chriſt will as certainly nouriſh his ſoule, as the outward elements can any way be fit to nouriſh his bo<g ref="char:EOLhyphen"/>dy, Mar. 16. 16. Col. 2. 12. 1. Cor. 11.</p>
+            <p n="5">5. He ſometimes feeles the holy Ghoſt inward<g ref="char:EOLhyphen"/>ly,
+<pb n="121" facs="tcp:173174:65"/> ſetting to Gods priuy ſeale by ſudden refreſh<g ref="char:EOLhyphen"/>ings falling like the dew vpon his heart, and eſta<g ref="char:EOLhyphen"/>bliſhing his ſoule before the Lord, Eph. 1. 13. 1. Cor. 1. 12.</p>
+            <p n="6">6. His heart is knit vn<g ref="char:EOLhyphen"/>to the godly more and more, and increaſeth in his reſolution to cleaue to them onely, and for<g ref="char:EOLhyphen"/>ſake all other profeſſions of men in the world; lo<g ref="char:EOLhyphen"/>uing them vnfainedly, and deſiring for euer to be a partaker of their lot. 1. Cor. 10. 16.</p>
+         </div>
+         <div n="10" type="chapter">
+            <pb n="122" facs="tcp:173174:66"/>
+            <head>CHAP. X.</head>
+            <argument>
+               <p>
+                  <hi>The directions that ſhew him how to get aſſurance by the helpe of theſe ſignes.</hi>
+               </p>
+            </argument>
+            <p>HItherto of the ſignes of the god<g ref="char:EOLhyphen"/>ly man. Now fol<g ref="char:EOLhyphen"/>lowes the courſe that the weake Chriſtian ſhould take by the vſe of the former ſignes of triall, to eſtabliſh his heart in the aſſurance of Gods fauour, and his owne eternall ſaluation.</p>
+            <p>My aduice is therfore, that the weak Chriſtian that finds want of eſta<g ref="char:EOLhyphen"/>bliſhment and cleare aſ<g ref="char:EOLhyphen"/>ſurance,
+<pb n="123" facs="tcp:173174:66"/> ſhould take the former ſignes of trial, &amp; go apart, and ſet himſelf in Gods preſence, emp<g ref="char:EOLhyphen"/>tying his heart of world<g ref="char:EOLhyphen"/>ly diſtractions, and ſeri<g ref="char:EOLhyphen"/>ouſly conſider of euery rule of triall apart; and gather out into ſome li<g ref="char:EOLhyphen"/>tle paper-book ſo much as in euery ſigne he can clearly find to be in himſelf, and that which he durſt through Gods mercy reſolutly auouch to be wrought in him by the grace of God. And this I would haue him to do with delibe<g ref="char:EOLhyphen"/>ration, trying himſelfe
+<pb n="124" facs="tcp:173174:67"/> by one or two of the chiefe heads at moſt in a day, ſpending no more time about it then he may well allow, without wearineſſe or dulneſſe.</p>
+            <p>Now becauſe he may be perhaps diſcouraged with the obſeruation of diuers things, which he may find wa<g ref="char:cmbAbbrStroke">̄</g>ting in him<g ref="char:EOLhyphen"/>ſelfe in euery ſigne; he muſt therfore take ſome ſound notice of the di<g ref="char:EOLhyphen"/>ſtinction of Chriſtians made by the Apoſtle <hi>Iohn,</hi> 1. Ioh. 2, who caſts all true Chriſtians into three ſorts. Some are <hi>In<g ref="char:EOLhyphen"/>fants,</hi> and either new
+<pb n="125" facs="tcp:173174:67"/> borne, or but weakly qualified with the gra<g ref="char:EOLhyphen"/>ces of Chriſt: yet are right, &amp; haue true grace in ſome meaſure. Others are <hi>ſtrong men,</hi> that is, ſuch as haue the gifts of the Spirit liuely and in their power in them. O<g ref="char:EOLhyphen"/>thers are <hi>Fathers,</hi> that is, ſuch as haue had long experience in the pow<g ref="char:EOLhyphen"/>erfull practiſe of godli<g ref="char:EOLhyphen"/>nes, and haue bene long exerciſed in all kinds of weldoing. Now all theſe three ſorts may be ſup<g ref="char:EOLhyphen"/>poſed to come to theſe ſignes. The weake Chri<g ref="char:EOLhyphen"/>ſtian only takes to a few
+<pb n="126" facs="tcp:173174:68"/> of the plaineſt marks in the explication of each ſigne. The ſtrong Chri<g ref="char:EOLhyphen"/>ſtia<g ref="char:cmbAbbrStroke">̄</g> he takes to the moſt of the marks. The Fa<g ref="char:EOLhyphen"/>thers they in a manner diſcerne all the particu<g ref="char:EOLhyphen"/>lars of Gods graces, and the ſeuerall workings of them. Each of theſe, eue<g ref="char:cmbAbbrStroke">̄</g> the weak Chriſtian may ſee ſo much as may ſtay his heart in aſſurance, &amp; ſo ſettle his faith &amp; ioy.</p>
+            <p>When there are many ſignes of one &amp; the ſelf-ſame thing, it is ſuffici<g ref="char:EOLhyphen"/>ent if it can be demon<g ref="char:EOLhyphen"/>ſtrated, though it be but a few ways, ſeeing euery
+<pb n="127" facs="tcp:173174:68"/> particular marke being warranted by Scripture, hath force to conclude for aſſurance, and to proue, that we differ fro<g ref="char:cmbAbbrStroke">̄</g> all the wicked men in the world.</p>
+            <p>Though at the firſt in reading but a ſigne or two, thou get but a few things may co<g ref="char:cmbAbbrStroke">̄</g>fort thee, yet hold out till thou come to the end of all the ſignes, &amp; then thou ſhalt ſee a faire army (as it were of arguments) to proue thy election and ſaluation. For whereas the moſt and beſt of vs, if we be asked this que<g ref="char:EOLhyphen"/>ſtion,
+<pb n="128" facs="tcp:173174:69"/> By what marks do we know that we are the true children of God, &amp; not wicked men? If we anſwer on a ſudden, and by preſent memory, we can ſcarce giue two ſou<g ref="char:cmbAbbrStroke">̄</g>d reaſons to proue the in<g ref="char:EOLhyphen"/>fallibilitie of our happy eſtate: which ſhews, that the moſt of vs liue at a great vncertaintie. Now he y<hi rend="sup">t</hi> hath gone through the ſignes, ſhal find per<g ref="char:EOLhyphen"/>haps 20, or 30, or 40 ſe<g ref="char:EOLhyphen"/>uerall and diſtinct argu<g ref="char:EOLhyphen"/>ments or markes, which when he hath collected them all together, may ſerue to anſwer all the
+<pb n="129" facs="tcp:173174:69"/> obiections of all the di<g ref="char:EOLhyphen"/>uels in hell. <hi>The gates of hell ca<g ref="char:cmbAbbrStroke">̄</g>not preuaile againſt his faith:</hi> which I declare thus: If the diuell ſay, thou art a wicked man, and an hypocrite; thou mayeſt readily anſwer, that by y<hi rend="sup">e</hi> grace of God in Ieſus Chriſt thou art none ſuch; and mayeſt put the diuell to proue by the word of God, that euer any wicked ma<g ref="char:cmbAbbrStroke">̄</g> did attain to all thoſe ſignes thou haſt collected. Which, becauſe it ca<g ref="char:cmbAbbrStroke">̄</g>not be done, thou mayeſt with much reſt and full aſſurance co<g ref="char:cmbAbbrStroke">̄</g>mit thy ſelf
+<pb n="130" facs="tcp:173174:70"/> to God, and bind thy ſelf by couena<g ref="char:cmbAbbrStroke">̄</g>t, neuer more to diſhonor him by ſuch vnbeleefe, as to call his loue &amp; thy ſaluatio<g ref="char:cmbAbbrStroke">̄</g> into queſtion. If a threefold cord cannot be broken, how weake then ſhould thy heart be, if thou ſhouldſt feare thy eſtate, vnto which God hath ſo ſealed, and ſo many wayes marked thee out for himſelfe?</p>
+            <p>And for thy further ſatisfaction: after thou haſt collected thy ſignes together, thou mayeſt carry them to thy godly Paſtor, and deſire him
+<pb n="131" facs="tcp:173174:70"/> to peruſe them, and ac<g ref="char:EOLhyphen"/>cordingly to giue thee his miniſteriall teſtimo<g ref="char:EOLhyphen"/>ny concerning them in the name of Ieſus Chriſt; and this may adde much ſatisfaction &amp; reſt to thy conſcience.</p>
+            <p>If in reading any of the ſignes, thou find any ſpeciall doubts; at any ha<g ref="char:cmbAbbrStroke">̄</g>d ſuppreſſe them not, but ſeeke reſolution fro<g ref="char:cmbAbbrStroke">̄</g> doubt to doubt, and fro<g ref="char:cmbAbbrStroke">̄</g> ſigne to ſigne. Thou mayſt gain much profi<g ref="char:EOLhyphen"/>table knowledg by pro<g ref="char:EOLhyphen"/>pounding theſe caſes of thy particular co<g ref="char:cmbAbbrStroke">̄</g>ſcience.</p>
+            <p>The leaſt gaine that
+<pb n="132" facs="tcp:173174:71"/> can be imagined by this courſe, is, that whereas before thou hadſt few e<g ref="char:EOLhyphen"/>uide<g ref="char:cmbAbbrStroke">̄</g>ces or none for thy eſtate, thou ſhalt now haue many of all ſorts: and it muſt needs be thy owne waiwardnes, if aſ<g ref="char:EOLhyphen"/>ſurance follow not. For theſe ſignes wil ranſacke thee, and try thy very heart and reines, and all thy ſecreteſt deſires and practiſes.</p>
+            <p>Yea this benefit thou maiſt reap by the ſignes, that they wil tell thee all the days of thy life, how it is with thee, whether thou go forward or back
+<pb n="133" facs="tcp:173174:71"/> ward. For if by exami<g ref="char:EOLhyphen"/>nation now thou gather out all thou canſt find by thy ſelf, theſe wil not onely lie by thee to help thee againſt any temp<g ref="char:EOLhyphen"/>tation at any time; but beſides, if thou try thy ſelf again, either againſt the next Sacrament, or the next yeare, thou mayeſt diſcerne what grou<g ref="char:cmbAbbrStroke">̄</g>d thou haſt gotten or loſt. If thou proſper, thou wilt diſcerne it, by taking in diuers things in each ſigne, which be<g ref="char:EOLhyphen"/>fore thou durſt not ac<g ref="char:EOLhyphen"/>knowledge; and beſides it will excellently ſhew
+<pb n="134" facs="tcp:173174:72"/> thee what thou wanteſt in each grace of God, &amp; ſo what thou ſhouldeſt ſet thy ſelfe about to get thy wants ſupplied. It will at all times make a true Anatomy of thy e<g ref="char:EOLhyphen"/>ſtate; which to the well-aduiſed Chriſtian ought to be accounted a mat<g ref="char:EOLhyphen"/>ter of great moment.</p>
+            <p>The God of peace giue thee all peace and ioy in beleeuing. If thou receiue any good by this Treatiſe, praiſe God, and pray for me.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173174:72"/>
+         </div>
+      </body>
+   </text>
+</TEI>
